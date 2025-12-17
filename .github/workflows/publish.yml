@@ -1,0 +1,72 @@
+# Webflow Scheduled Publisher
+# Runs daily at 9:00 AM Montreal time (EST/EDT)
+# Publishes articles according to schedule.json
+
+name: Publish Scheduled Articles
+
+on:
+  # Run daily at 9:00 AM Montreal time
+  # Note: GitHub uses UTC, so we account for timezone
+  # Montreal is UTC-5 (EST) or UTC-4 (EDT)
+  # 9 AM Montreal = 14:00 UTC (winter) or 13:00 UTC (summer)
+  schedule:
+    - cron: '0 14 * * *'  # 9 AM EST (winter)
+    # - cron: '0 13 * * *'  # 9 AM EDT (summer) - uncomment during daylight saving
+
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (check schedule without publishing)'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Check schedule (dry run)
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        run: |
+          echo "=== DRY RUN - Checking schedule ==="
+          python -c "
+          import json
+          from datetime import date
+          with open('schedule.json') as f:
+              schedule = json.load(f)
+          today = date.today().isoformat()
+          print(f'Today: {today}')
+          print(f'Total articles in schedule: {len(schedule[\"articles\"])}')
+          for a in schedule['articles']:
+              status = '✅ TODAY' if a['publish_date'] == today else ('✓ Published' if a.get('published') else '⏳ Pending')
+              print(f\"  {a['publish_date']} - {a['name']} - {status}\")
+          "
+
+      - name: Publish scheduled articles
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
+        run: python scripts/publish_scheduled.py
+
+      - name: Summary
+        run: |
+          echo "## Publishing Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Check the logs above for details." >> $GITHUB_STEP_SUMMARY
