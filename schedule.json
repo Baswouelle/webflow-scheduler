@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2025-12-18",
-  "notes": "Cluster 3A - Anterior Knee Pain articles. Ready for scheduled publishing.",
+  "notes": "Cluster 3A (Anterior Knee) + Cluster 4 (Neck/Cervical). Ready for scheduled publishing.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -91,6 +91,60 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6944003a5238df2f7bcce093",
       "publish_date": "2026-01-06",
+      "published": false
+    },
+    {
+      "name": "Douleur cervicale : Guide complet",
+      "slug": "douleur-cervicale-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac1a159c0a373caeb9e",
+      "publish_date": "2026-01-09",
+      "published": false
+    },
+    {
+      "name": "Physiothérapie pour douleur cervicale",
+      "slug": "physiotherapie-pour-douleur-cervicale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac224111ab3d305bb32",
+      "publish_date": "2026-01-09",
+      "published": false
+    },
+    {
+      "name": "Sténose cervicale",
+      "slug": "stenose-cervicale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac4296fcb18208b336d",
+      "publish_date": "2026-01-13",
+      "published": false
+    },
+    {
+      "name": "Anatomie cervicale",
+      "slug": "anatomie-cervicale",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac396b0cc30b196d5fc",
+      "publish_date": "2026-01-13",
+      "published": false
+    },
+    {
+      "name": "Céphalées cervicogéniques",
+      "slug": "cephalees-cervicogeniques",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac3635ea8659725f7a7",
+      "publish_date": "2026-01-16",
+      "published": false
+    },
+    {
+      "name": "Physiothérapie vestibulaire",
+      "slug": "physiotherapie-vestibulaire",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac496b0cc30b196d754",
+      "publish_date": "2026-01-16",
       "published": false
     }
   ]
