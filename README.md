@@ -135,4 +135,112 @@ The current cron is set for winter. To adjust for summer, edit `.github/workflow
 
 ---
 
+## Adding New Clusters (Workflow)
+
+When a new cluster of articles is ready for publication, follow these steps:
+
+### Step 1: Create Upload Script
+
+Create a new upload script in the Webflow_API folder:
+
+```bash
+cd "/Users/ariel/odrive/Dropbox Physioactif/Admin/Marketing/Site web 2025/Webflow_API"
+```
+
+Use the existing `upload_cluster3a_drafts.py` as a template. Key sections to modify:
+
+```python
+# Collection IDs
+GUIDE_COMPLET = "67c0ab311dc962020babaa51"
+RESSOURCES = "67165e64411a14330fa9c958"
+
+# Article definitions - Update for your cluster
+ARTICLES = [
+    {
+        "name": "Article Title",
+        "slug": "article-slug",
+        "metatitre": "Metatitre here",
+        "metadescription": "Meta description here",
+        "collection": GUIDE_COMPLET,  # or RESSOURCES
+        "file": "supporting_articles/XX_filename_E8_FINAL.md"
+    },
+    # ... more articles
+]
+
+# Update base path for your cluster
+BASE_PATH = Path("/path/to/cluster/folder")
+```
+
+### Step 2: Run Upload Script
+
+```bash
+python3 scripts/upload_cluster[X]_drafts.py
+```
+
+The script will:
+- Upload all articles as **drafts** to Webflow
+- Return the `item_id` for each article
+- Save results to `cluster[X]_item_ids.json`
+
+### Step 3: Update schedule.json
+
+Add the new articles to `schedule.json` in this repository:
+
+```json
+{
+  "name": "Article Title",
+  "slug": "article-slug",
+  "collection": "Guide Complet",
+  "collection_id": "67c0ab311dc962020babaa51",
+  "item_id": "PASTE_FROM_UPLOAD_SCRIPT",
+  "publish_date": "2025-01-15",
+  "published": false
+}
+```
+
+**Schedule Guidelines:**
+- 2 articles per publication day (staggered for indexing)
+- Monday/Thursday schedule recommended
+- Leave 3-4 days between publications
+
+### Step 4: Push to GitHub
+
+```bash
+cd "/Users/ariel/odrive/Dropbox Physioactif/Admin/Marketing/Site web 2025/webflow-scheduler"
+git add schedule.json
+git commit -m "Add Cluster [X] articles to schedule"
+git push
+```
+
+### Step 5: Verify (Optional)
+
+Run a dry-run to verify the schedule:
+1. Go to GitHub repo → Actions
+2. Click "Publish Scheduled Articles"
+3. Click "Run workflow" → Check "Dry run"
+4. Review output
+
+---
+
+## Quick Reference Commands
+
+```bash
+# Navigate to Webflow API folder
+cd "/Users/ariel/odrive/Dropbox Physioactif/Admin/Marketing/Site web 2025/Webflow_API"
+
+# Upload cluster articles as drafts
+python3 scripts/upload_cluster[X]_drafts.py
+
+# Navigate to scheduler folder
+cd "/Users/ariel/odrive/Dropbox Physioactif/Admin/Marketing/Site web 2025/webflow-scheduler"
+
+# Update schedule and push
+git add schedule.json && git commit -m "Update schedule" && git push
+
+# Check GitHub Actions status
+gh run list --repo Baswouelle/webflow-scheduler
+```
+
+---
+
 Created for Physioactif content publishing automation.
