@@ -51,12 +51,32 @@
       "published": false
     },
     {
+      "name": "Douleur au dos : Guide complet (Power Hub)",
+      "slug": "douleur-dos-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694015b368b5abbf78fc4916",
+      "publish_date": "2026-01-01",
+      "published": false,
+      "notes": "Cluster 2 Back - Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour mal de dos (Power Hub)",
+      "slug": "physiotherapie-douleur-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69417f868fabef324b4939b8",
+      "publish_date": "2026-01-03",
+      "published": false,
+      "notes": "Cluster 2 Back - Power Hub"
+    },
+    {
       "name": "Tendinopathie rotulienne",
       "slug": "tendinopathie-rotulienne",
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440037d9a11c91eb4c0e12",
-      "publish_date": "2026-01-02",
+      "publish_date": "2026-01-04",
       "published": false
     },
     {
@@ -268,26 +288,6 @@
       "item_id": "694553be822adaf40d2c4692",
       "publish_date": "2026-02-17",
       "published": false
-    },
-    {
-      "name": "Douleur au dos : Guide complet (Power Hub)",
-      "slug": "douleur-dos-guide-complet",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "694015b368b5abbf78fc4916",
-      "publish_date": "2026-02-19",
-      "published": false,
-      "notes": "Cluster 2 Back - Power Hub"
-    },
-    {
-      "name": "Physiothérapie pour mal de dos (Power Hub)",
-      "slug": "physiotherapie-douleur-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69417f868fabef324b4939b8",
-      "publish_date": "2026-02-19",
-      "published": false,
-      "notes": "Cluster 2 Back - Power Hub"
     },
     {
       "name": "Hernie discale lombaire",
