@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2025-12-23",
-  "notes": "All new articles on 2-day drip schedule. Cluster 1 Shoulder: 8 updated articles already live.",
+  "notes": "All new articles on 2-day drip schedule. Cluster 2 Back added (13 existing updates). Power Hubs pending creation.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -270,6 +270,136 @@
       "published": false
     },
     {
+      "name": "Hernie discale lombaire",
+      "slug": "hernie-discale-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956aa7ec9ebf1d825edd",
+      "publish_date": "2026-02-19",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Lombo-sciatalgie (Sciatique)",
+      "slug": "lombo-sciatalgie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956a52bdf94728297df1",
+      "publish_date": "2026-02-19",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Sténose spinale lombaire",
+      "slug": "stenose-spinale-ou-centrale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956b4ba76f99da1560a2",
+      "publish_date": "2026-02-21",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Arthrose lombaire",
+      "slug": "arthrose-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956b26e6c5007fe3eacd",
+      "publish_date": "2026-02-21",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Lombo-cruralgie",
+      "slug": "lombo-cruralgie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956aa399e4ad698995e8",
+      "publish_date": "2026-02-23",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Spondylolisthésis",
+      "slug": "spondylolisthesis",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8b6c164b6404b8681b",
+      "publish_date": "2026-02-23",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Coccygodynie",
+      "slug": "coccygodynie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956c466df1703f062665",
+      "publish_date": "2026-02-25",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Fracture vertébrale lombaire",
+      "slug": "fracture-vertebrale-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8d7a4c7c302318314b",
+      "publish_date": "2026-02-25",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Discopathie dégénérative",
+      "slug": "discopathie-degenerative",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8f9e2087b8b3757f36",
+      "publish_date": "2026-02-27",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Syndrome facettaire lombaire",
+      "slug": "syndrome-facettaire-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a906f35e0e3f1434f98",
+      "publish_date": "2026-02-27",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Préférence directionnelle lombaire",
+      "slug": "preference-directionnelle-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b00d0b1125a0f59ae1022",
+      "publish_date": "2026-03-01",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Anatomie de la colonne vertébrale",
+      "slug": "anatomie-colonne-vertebrale",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "693b75a3583d155277351c91",
+      "publish_date": "2026-03-01",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Comprendre vos disques intervertébraux",
+      "slug": "comprendre-disques-intervertebraux",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "693b75a394f20ef2a56f6829",
+      "publish_date": "2026-03-03",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
       "name": "Capsulite de l'épaule",
       "slug": "capsulite",
       "collection": "Guide Complet",
@@ -348,6 +478,26 @@
       "publish_date": "2025-12-23",
       "published": true,
       "notes": "UPDATED - already existed on site"
+    }
+  ],
+  "pending_creation": [
+    {
+      "name": "Douleur au dos : Guide complet (Power Hub)",
+      "slug": "douleur-dos-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": null,
+      "cms_file": "01_douleur_dos_guide_complet_CMS.md",
+      "notes": "Cluster 2 Back - PENDING CREATION"
+    },
+    {
+      "name": "Physiothérapie pour douleur au dos (Power Hub)",
+      "slug": "physiotherapie-douleur-dos",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": null,
+      "cms_file": "02_physiotherapie_douleur_dos_CMS.md",
+      "notes": "Cluster 2 Back - PENDING CREATION"
     }
   ]
 }
