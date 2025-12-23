@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2025-12-23",
-  "notes": "All new articles on 2-day drip schedule. Cluster 2 Back added (13 existing updates). Power Hubs pending creation.",
+  "notes": "All new articles on 2-day drip schedule. Cluster 2 Back complete (15 articles total - 2 Power Hubs + 13 updates).",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -270,12 +270,32 @@
       "published": false
     },
     {
+      "name": "Douleur au dos : Guide complet (Power Hub)",
+      "slug": "douleur-dos-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694015b368b5abbf78fc4916",
+      "publish_date": "2026-02-19",
+      "published": false,
+      "notes": "Cluster 2 Back - Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour mal de dos (Power Hub)",
+      "slug": "physiotherapie-douleur-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69417f868fabef324b4939b8",
+      "publish_date": "2026-02-19",
+      "published": false,
+      "notes": "Cluster 2 Back - Power Hub"
+    },
+    {
       "name": "Hernie discale lombaire",
       "slug": "hernie-discale-lombaire",
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956aa7ec9ebf1d825edd",
-      "publish_date": "2026-02-19",
+      "publish_date": "2026-02-21",
       "published": false,
       "notes": "Cluster 2 Back - UPDATE existing"
     },
@@ -478,26 +498,6 @@
       "publish_date": "2025-12-23",
       "published": true,
       "notes": "UPDATED - already existed on site"
-    }
-  ],
-  "pending_creation": [
-    {
-      "name": "Douleur au dos : Guide complet (Power Hub)",
-      "slug": "douleur-dos-guide-complet",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": null,
-      "cms_file": "01_douleur_dos_guide_complet_CMS.md",
-      "notes": "Cluster 2 Back - PENDING CREATION"
-    },
-    {
-      "name": "Physiothérapie pour douleur au dos (Power Hub)",
-      "slug": "physiotherapie-douleur-dos",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": null,
-      "cms_file": "02_physiotherapie_douleur_dos_CMS.md",
-      "notes": "Cluster 2 Back - PENDING CREATION"
     }
   ]
 }
