@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2025-12-18",
-  "notes": "Cluster 3A (Anterior Knee) + Cluster 4 (Neck/Cervical). Ready for scheduled publishing.",
+  "last_updated": "2025-12-23",
+  "notes": "Cluster 1 (Shoulder) + Cluster 3A (Anterior Knee) + Cluster 4 (Neck/Cervical) + Cluster 5 (Pain Education). Ready for scheduled publishing.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -19,6 +19,24 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440036a30b13f251c0bee3",
       "publish_date": "2025-12-23",
+      "published": false
+    },
+    {
+      "name": "Douleur à l'épaule : Guide complet (Power Hub)",
+      "slug": "douleur-epaule-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694a6f74a7030e6306ebe6d5",
+      "publish_date": "2025-12-24",
+      "published": false
+    },
+    {
+      "name": "Physiothérapie pour douleur à l'épaule (Power Hub)",
+      "slug": "physiotherapie-pour-douleur-epaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694a6f755a3b40d572b8bd02",
+      "publish_date": "2025-12-25",
       "published": false
     },
     {
@@ -40,6 +58,33 @@
       "published": false
     },
     {
+      "name": "Capsulite de l'épaule",
+      "slug": "capsulite",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956659e328a32712aac2",
+      "publish_date": "2025-12-27",
+      "published": false
+    },
+    {
+      "name": "Tendinopathie de la coiffe des rotateurs",
+      "slug": "tendinopathie-ou-tendinite-a-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c895679f978cf5edfbfc39",
+      "publish_date": "2025-12-28",
+      "published": false
+    },
+    {
+      "name": "Bursite à l'épaule",
+      "slug": "bursite-a-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c89567641dfb72cba7b524",
+      "publish_date": "2025-12-29",
+      "published": false
+    },
+    {
       "name": "Maladie d'Osgood-Schlatter",
       "slug": "maladie-osgood-schlatter",
       "collection": "Guide Complet",
@@ -55,6 +100,24 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440038d8d8d740dbdeb5fa",
       "publish_date": "2025-12-30",
+      "published": false
+    },
+    {
+      "name": "Luxation de l'épaule",
+      "slug": "luxation-de-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c89568d140b95a86c896e8",
+      "publish_date": "2025-12-31",
+      "published": false
+    },
+    {
+      "name": "Syndrome d'accrochage de l'épaule",
+      "slug": "syndrome-daccrochage-a-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c895671813e7014dafff67",
+      "publish_date": "2026-01-01",
       "published": false
     },
     {
@@ -76,6 +139,33 @@
       "published": false
     },
     {
+      "name": "Entorse acromio-claviculaire",
+      "slug": "entorse-de-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c89568ea048614a4110b13",
+      "publish_date": "2026-01-03",
+      "published": false
+    },
+    {
+      "name": "Tendinite calcifiante de l'épaule",
+      "slug": "tendinite-calcifiante-a-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c89567d44da1d17688a9a1",
+      "publish_date": "2026-01-04",
+      "published": false
+    },
+    {
+      "name": "Déchirure de la coiffe des rotateurs",
+      "slug": "dechirure-de-la-coiffe-des-rotateurs-a-lepaule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c895671d70ff5c824ad0e8",
+      "publish_date": "2026-01-05",
+      "published": false
+    },
+    {
       "name": "Quadriceps et douleur genou",
       "slug": "quadriceps-douleur-genou",
       "collection": "Ressources",
@@ -94,6 +184,24 @@
       "published": false
     },
     {
+      "name": "Anatomie de l'épaule",
+      "slug": "anatomie-epaule",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f75a4fc2e4fca3477b4",
+      "publish_date": "2026-01-07",
+      "published": false
+    },
+    {
+      "name": "Comprendre les tendons",
+      "slug": "comprendre-tendons",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f76ed2eff02f914d2ec",
+      "publish_date": "2026-01-08",
+      "published": false
+    },
+    {
       "name": "Douleur cervicale : Guide complet",
       "slug": "douleur-cervicale-guide-complet",
       "collection": "Guide Complet",
@@ -109,6 +217,15 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69447ac224111ab3d305bb32",
       "publish_date": "2026-01-09",
+      "published": false
+    },
+    {
+      "name": "La thérapie manuelle",
+      "slug": "therapie-manuelle",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f76af2fb0776a3c9d16",
+      "publish_date": "2026-01-10",
       "published": false
     },
     {
@@ -145,6 +262,78 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69447ac496b0cc30b196d754",
       "publish_date": "2026-01-16",
+      "published": false
+    },
+    {
+      "name": "Comprendre la douleur chronique (Power Hub)",
+      "slug": "comprendre-la-douleur-chronique",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694553ba6a2bd321dc35289a",
+      "publish_date": "2026-01-20",
+      "published": false
+    },
+    {
+      "name": "Douleur aiguë vs chronique",
+      "slug": "douleur-aigue-vs-chronique",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553ba7d30d911e0ea2f01",
+      "publish_date": "2026-01-20",
+      "published": false
+    },
+    {
+      "name": "Neuroscience de la douleur",
+      "slug": "neuroscience-de-la-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc08db1bd9bfa6f6e3",
+      "publish_date": "2026-01-23",
+      "published": false
+    },
+    {
+      "name": "Psychologie de la douleur",
+      "slug": "psychologie-de-la-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc6552884f16b57500",
+      "publish_date": "2026-01-23",
+      "published": false
+    },
+    {
+      "name": "Douleur neuropathique",
+      "slug": "douleur-neuropathique",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc1d54db0e95caec14",
+      "publish_date": "2026-01-27",
+      "published": false
+    },
+    {
+      "name": "Douleur inflammatoire",
+      "slug": "douleur-inflammatoire",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bd43404c92d31164e1",
+      "publish_date": "2026-01-27",
+      "published": false
+    },
+    {
+      "name": "Douleur fonctionnelle (nociplastique)",
+      "slug": "douleur-fonctionnelle",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bd43404c92d3116510",
+      "publish_date": "2026-01-30",
+      "published": false
+    },
+    {
+      "name": "Stratégies de gestion de la douleur",
+      "slug": "strategies-gestion-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553be822adaf40d2c4692",
+      "publish_date": "2026-01-30",
       "published": false
     }
   ]
