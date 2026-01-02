@@ -10,7 +10,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440035b582ce0dc29de75c",
       "publish_date": "2025-12-23",
-      "published": false
+      "published": true,
+      "published_at": "2025-12-24"
     },
     {
       "name": "Physiothérapie pour douleur antérieure au genou",
@@ -19,7 +20,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440036a30b13f251c0bee3",
       "publish_date": "2025-12-25",
-      "published": false
+      "published": true,
+      "published_at": "2025-12-25"
     },
     {
       "name": "Douleur à l'épaule : Guide complet (Power Hub)",
@@ -28,7 +30,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694a6f74a7030e6306ebe6d5",
       "publish_date": "2025-12-27",
-      "published": false,
+      "published": true,
+      "published_at": "2025-12-27",
       "notes": "NEW - Cluster 1 Shoulder"
     },
     {
@@ -38,7 +41,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694a6f755a3b40d572b8bd02",
       "publish_date": "2025-12-29",
-      "published": false,
+      "published": true,
+      "published_at": "2025-12-29",
       "notes": "NEW - Cluster 1 Shoulder"
     },
     {
@@ -48,7 +52,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69440036a30b13f251c0befa",
       "publish_date": "2025-12-31",
-      "published": false
+      "published": true,
+      "published_at": "2025-12-31"
     },
     {
       "name": "Douleur au dos : Guide complet (Power Hub)",
@@ -57,7 +62,8 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694015b368b5abbf78fc4916",
       "publish_date": "2026-01-01",
-      "published": false,
+      "published": true,
+      "published_at": "2026-01-01",
       "notes": "Cluster 2 Back - Power Hub"
     },
     {
