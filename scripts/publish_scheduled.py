@@ -48,7 +48,8 @@ def publish_items(collection_id: str, item_ids: list, api_token: str) -> dict:
 
     response = requests.post(url, headers=headers, json=payload)
 
-    if response.status_code == 200:
+    # Webflow returns 200 or 202 (Accepted) for successful publish operations
+    if response.status_code in (200, 202):
         return {"success": True, "data": response.json()}
     else:
         return {"success": False, "error": response.text, "status_code": response.status_code}
@@ -66,7 +67,8 @@ def publish_site(site_id: str, api_token: str) -> dict:
 
     response = requests.post(url, headers=headers)
 
-    if response.status_code == 200:
+    # Webflow returns 200 or 202 (Accepted) for successful publish operations
+    if response.status_code in (200, 202):
         return {"success": True, "data": response.json()}
     else:
         return {"success": False, "error": response.text, "status_code": response.status_code}
