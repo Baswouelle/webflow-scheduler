@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2026-01-08",
-  "notes": "Added Ankle/Foot Cluster Phase 3. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
+  "notes": "Added Elbow + Wrist/Hand Cluster Phase 4. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -564,6 +564,46 @@
       "publish_date": "2026-01-30",
       "published": false,
       "notes": "NEW - Ankle/Foot Cluster Phase 3 Service Page"
+    },
+    {
+      "name": "Douleur au coude : Guide complet",
+      "slug": "douleur-coude-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69602cf19b6ddcca9cca444a",
+      "publish_date": "2026-03-06",
+      "published": false,
+      "notes": "NEW - Elbow Cluster Phase 4 Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au coude",
+      "slug": "physiotherapie-douleur-coude",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69602cf26f1358487a4a3448",
+      "publish_date": "2026-03-10",
+      "published": false,
+      "notes": "NEW - Elbow Cluster Phase 4 Service Page"
+    },
+    {
+      "name": "Douleur au poignet et à la main : Guide complet",
+      "slug": "douleur-poignet-main-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69602cf35aa1c668f713d49c",
+      "publish_date": "2026-03-13",
+      "published": false,
+      "notes": "NEW - Wrist/Hand Cluster Phase 4 Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au poignet et à la main",
+      "slug": "physiotherapie-douleur-poignet-main",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69602cf3bd0247b6db6dda34",
+      "publish_date": "2026-03-17",
+      "published": false,
+      "notes": "NEW - Wrist/Hand Cluster Phase 4 Service Page"
     }
   ]
 }
