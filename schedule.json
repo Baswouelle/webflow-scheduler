@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2025-12-23",
-  "notes": "All new articles on 2-day drip schedule. Cluster 2 Back complete (15 articles total - 2 Power Hubs + 13 updates).",
+  "last_updated": "2026-01-08",
+  "notes": "Added Knee Cluster Phase 1 (2 Power Hubs). Cluster 2 Back complete (15 articles). All on 2-day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -504,6 +504,26 @@
       "publish_date": "2025-12-23",
       "published": true,
       "notes": "UPDATED - already existed on site"
+    },
+    {
+      "name": "Douleur au genou : Guide complet",
+      "slug": "douleur-au-genou-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "695fab0ca5ffe85796a5c5a0",
+      "publish_date": "2026-01-13",
+      "published": false,
+      "notes": "NEW - Knee Cluster Phase 1 Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au genou",
+      "slug": "physiotherapie-douleur-genou",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "695fab0da5ffe85796a5c67e",
+      "publish_date": "2026-01-16",
+      "published": false,
+      "notes": "NEW - Knee Cluster Phase 1 Service Page"
     }
   ]
 }
