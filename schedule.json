@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2026-01-08",
-  "notes": "Added Hip Cluster Phase 2 (2 Power Hubs). Knee Cluster Phase 1 added. Cluster 2 Back complete (15 articles). All on 3-day drip schedule.",
+  "notes": "Added Ankle/Foot Cluster Phase 3. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -544,6 +544,26 @@
       "publish_date": "2026-01-23",
       "published": false,
       "notes": "NEW - Hip Cluster Phase 2 Service Page"
+    },
+    {
+      "name": "Douleur au pied et à la cheville : Guide complet",
+      "slug": "douleur-pied-cheville-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69601f938c82e9126c8ad11d",
+      "publish_date": "2026-01-27",
+      "published": false,
+      "notes": "NEW - Ankle/Foot Cluster Phase 3 Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au pied et à la cheville",
+      "slug": "physiotherapie-douleur-pied-cheville",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69601f933b957564bdc2670b",
+      "publish_date": "2026-01-30",
+      "published": false,
+      "notes": "NEW - Ankle/Foot Cluster Phase 3 Service Page"
     }
   ]
 }
