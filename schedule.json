@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2026-01-08",
-  "notes": "Added Knee Cluster Phase 1 (2 Power Hubs). Cluster 2 Back complete (15 articles). All on 2-day drip schedule.",
+  "notes": "Added Hip Cluster Phase 2 (2 Power Hubs). Knee Cluster Phase 1 added. Cluster 2 Back complete (15 articles). All on 3-day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -524,6 +524,26 @@
       "publish_date": "2026-01-16",
       "published": false,
       "notes": "NEW - Knee Cluster Phase 1 Service Page"
+    },
+    {
+      "name": "Douleur à la hanche : Guide complet",
+      "slug": "douleur-hanche-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "695fda7eb5918b3becf133dc",
+      "publish_date": "2026-01-20",
+      "published": false,
+      "notes": "NEW - Hip Cluster Phase 2 Power Hub"
+    },
+    {
+      "name": "Physiothérapie pour la douleur à la hanche",
+      "slug": "physiotherapie-douleur-hanche",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "695fda7f72d6b2b32872f261",
+      "publish_date": "2026-01-23",
+      "published": false,
+      "notes": "NEW - Hip Cluster Phase 2 Service Page"
     }
   ]
 }
