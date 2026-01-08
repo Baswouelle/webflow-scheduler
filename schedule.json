@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2026-01-08",
-  "notes": "Added Elbow + Wrist/Hand Cluster Phase 4. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
+  "notes": "Added Pelvic Floor Phase 5. Elbow + Wrist/Hand Cluster Phase 4 added. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -604,6 +604,16 @@
       "publish_date": "2026-03-17",
       "published": false,
       "notes": "NEW - Wrist/Hand Cluster Phase 4 Service Page"
+    },
+    {
+      "name": "Physiothérapie du plancher pelvien",
+      "slug": "physiotherapie-plancher-pelvien",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69603007b3141c8688a09321",
+      "publish_date": "2026-03-20",
+      "published": false,
+      "notes": "NEW - Pelvic Floor Phase 5 Service Page"
     }
   ]
 }
