@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
   "last_updated": "2026-01-09",
-  "notes": "Added Pelvic Floor Phase 5. Elbow + Wrist/Hand Cluster Phase 4 added. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule. Phase 6 (Tête/Visage + Supporting Regions) added: 14 articles on 3-4 day drip schedule.",
+  "notes": "Rescheduled to 1 article per day (previously 2 per day). All phases included.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -65,365 +65,6 @@
       "published": true,
       "published_at": "2026-01-01",
       "notes": "Cluster 2 Back - Power Hub"
-    },
-    {
-      "name": "Physiothérapie pour mal de dos (Power Hub)",
-      "slug": "physiotherapie-douleur-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69417f868fabef324b4939b8",
-      "publish_date": "2026-01-03",
-      "published": false,
-      "notes": "Cluster 2 Back - Power Hub"
-    },
-    {
-      "name": "Tendinopathie rotulienne",
-      "slug": "tendinopathie-rotulienne",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69440037d9a11c91eb4c0e12",
-      "publish_date": "2026-01-04",
-      "published": false
-    },
-    {
-      "name": "Anatomie de l'épaule",
-      "slug": "anatomie-epaule",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694a6f75a4fc2e4fca3477b4",
-      "publish_date": "2026-01-04",
-      "published": false,
-      "notes": "NEW - Cluster 1 Shoulder"
-    },
-    {
-      "name": "Maladie d'Osgood-Schlatter",
-      "slug": "maladie-osgood-schlatter",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "694400385238df2f7bccdfb3",
-      "publish_date": "2026-01-06",
-      "published": false
-    },
-    {
-      "name": "Luxation de la rotule",
-      "slug": "luxation-rotule",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69440038d8d8d740dbdeb5fa",
-      "publish_date": "2026-01-08",
-      "published": false
-    },
-    {
-      "name": "Comprendre les tendons",
-      "slug": "comprendre-tendons",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694a6f76ed2eff02f914d2ec",
-      "publish_date": "2026-01-10",
-      "published": false,
-      "notes": "NEW - Cluster 1 Shoulder"
-    },
-    {
-      "name": "La thérapie manuelle",
-      "slug": "therapie-manuelle",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694a6f76af2fb0776a3c9d16",
-      "publish_date": "2026-01-12",
-      "published": false,
-      "notes": "NEW - Cluster 1 Shoulder"
-    },
-    {
-      "name": "Anatomie genou antérieur",
-      "slug": "anatomie-genou-anterieur",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694400395238df2f7bcce019",
-      "publish_date": "2026-01-14",
-      "published": false
-    },
-    {
-      "name": "Biomécanique rotulienne",
-      "slug": "biomecanique-rotule",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694400392aa2a73b465655c8",
-      "publish_date": "2026-01-16",
-      "published": false
-    },
-    {
-      "name": "Quadriceps et douleur genou",
-      "slug": "quadriceps-douleur-genou",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "6944003a8f3c4bc2c8a0c63d",
-      "publish_date": "2026-01-18",
-      "published": false
-    },
-    {
-      "name": "Protocole de repos structuré",
-      "slug": "protocole-repos-structure-4-phases",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "6944003a5238df2f7bcce093",
-      "publish_date": "2026-01-20",
-      "published": false
-    },
-    {
-      "name": "Douleur cervicale : Guide complet",
-      "slug": "douleur-cervicale-guide-complet",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69447ac1a159c0a373caeb9e",
-      "publish_date": "2026-01-22",
-      "published": false
-    },
-    {
-      "name": "Physiothérapie pour douleur cervicale",
-      "slug": "physiotherapie-pour-douleur-cervicale",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69447ac224111ab3d305bb32",
-      "publish_date": "2026-01-24",
-      "published": false
-    },
-    {
-      "name": "Sténose cervicale",
-      "slug": "stenose-cervicale",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "69447ac4296fcb18208b336d",
-      "publish_date": "2026-01-26",
-      "published": false
-    },
-    {
-      "name": "Anatomie cervicale",
-      "slug": "anatomie-cervicale",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "69447ac396b0cc30b196d5fc",
-      "publish_date": "2026-01-28",
-      "published": false
-    },
-    {
-      "name": "Céphalées cervicogéniques",
-      "slug": "cephalees-cervicogeniques",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "69447ac3635ea8659725f7a7",
-      "publish_date": "2026-01-30",
-      "published": false
-    },
-    {
-      "name": "Physiothérapie vestibulaire",
-      "slug": "physiotherapie-vestibulaire",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "69447ac496b0cc30b196d754",
-      "publish_date": "2026-02-01",
-      "published": false
-    },
-    {
-      "name": "Comprendre la douleur chronique (Power Hub)",
-      "slug": "comprendre-la-douleur-chronique",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "694553ba6a2bd321dc35289a",
-      "publish_date": "2026-02-03",
-      "published": false
-    },
-    {
-      "name": "Douleur aiguë vs chronique",
-      "slug": "douleur-aigue-vs-chronique",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553ba7d30d911e0ea2f01",
-      "publish_date": "2026-02-05",
-      "published": false
-    },
-    {
-      "name": "Neuroscience de la douleur",
-      "slug": "neuroscience-de-la-douleur",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bc08db1bd9bfa6f6e3",
-      "publish_date": "2026-02-07",
-      "published": false
-    },
-    {
-      "name": "Psychologie de la douleur",
-      "slug": "psychologie-de-la-douleur",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bc6552884f16b57500",
-      "publish_date": "2026-02-09",
-      "published": false
-    },
-    {
-      "name": "Douleur neuropathique",
-      "slug": "douleur-neuropathique",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bc1d54db0e95caec14",
-      "publish_date": "2026-02-11",
-      "published": false
-    },
-    {
-      "name": "Douleur inflammatoire",
-      "slug": "douleur-inflammatoire",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bd43404c92d31164e1",
-      "publish_date": "2026-02-13",
-      "published": false
-    },
-    {
-      "name": "Douleur fonctionnelle (nociplastique)",
-      "slug": "douleur-fonctionnelle",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bd43404c92d3116510",
-      "publish_date": "2026-02-15",
-      "published": false
-    },
-    {
-      "name": "Stratégies de gestion de la douleur",
-      "slug": "strategies-gestion-douleur",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553be822adaf40d2c4692",
-      "publish_date": "2026-02-17",
-      "published": false
-    },
-    {
-      "name": "Hernie discale lombaire",
-      "slug": "hernie-discale-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956aa7ec9ebf1d825edd",
-      "publish_date": "2026-02-21",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Lombo-sciatalgie (Sciatique)",
-      "slug": "lombo-sciatalgie",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956a52bdf94728297df1",
-      "publish_date": "2026-02-19",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Sténose spinale lombaire",
-      "slug": "stenose-spinale-ou-centrale",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956b4ba76f99da1560a2",
-      "publish_date": "2026-02-21",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Arthrose lombaire",
-      "slug": "arthrose-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956b26e6c5007fe3eacd",
-      "publish_date": "2026-02-21",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Lombo-cruralgie",
-      "slug": "lombo-cruralgie",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956aa399e4ad698995e8",
-      "publish_date": "2026-02-23",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Spondylolisthésis",
-      "slug": "spondylolisthesis",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "693b0a8b6c164b6404b8681b",
-      "publish_date": "2026-02-23",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Coccygodynie",
-      "slug": "coccygodynie",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "67c8956c466df1703f062665",
-      "publish_date": "2026-02-25",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Fracture vertébrale lombaire",
-      "slug": "fracture-vertebrale-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "693b0a8d7a4c7c302318314b",
-      "publish_date": "2026-02-25",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Discopathie dégénérative",
-      "slug": "discopathie-degenerative",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "693b0a8f9e2087b8b3757f36",
-      "publish_date": "2026-02-27",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Syndrome facettaire lombaire",
-      "slug": "syndrome-facettaire-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "693b0a906f35e0e3f1434f98",
-      "publish_date": "2026-02-27",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Préférence directionnelle lombaire",
-      "slug": "preference-directionnelle-lombaire",
-      "collection": "Guide Complet",
-      "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "693b00d0b1125a0f59ae1022",
-      "publish_date": "2026-03-01",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Anatomie de la colonne vertébrale",
-      "slug": "anatomie-colonne-vertebrale",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "693b75a3583d155277351c91",
-      "publish_date": "2026-03-01",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
-    },
-    {
-      "name": "Comprendre vos disques intervertébraux",
-      "slug": "comprendre-disques-intervertebraux",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "693b75a394f20ef2a56f6829",
-      "publish_date": "2026-03-03",
-      "published": false,
-      "notes": "Cluster 2 Back - UPDATE existing"
     },
     {
       "name": "Capsulite de l'épaule",
@@ -506,14 +147,99 @@
       "notes": "UPDATED - already existed on site"
     },
     {
+      "name": "Physiothérapie pour mal de dos (Power Hub)",
+      "slug": "physiotherapie-douleur-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69417f868fabef324b4939b8",
+      "publish_date": "2026-01-03",
+      "published": false,
+      "notes": "Cluster 2 Back - Power Hub"
+    },
+    {
+      "name": "Tendinopathie rotulienne",
+      "slug": "tendinopathie-rotulienne",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69440037d9a11c91eb4c0e12",
+      "publish_date": "2026-01-04",
+      "published": false
+    },
+    {
+      "name": "Anatomie de l'épaule",
+      "slug": "anatomie-epaule",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f75a4fc2e4fca3477b4",
+      "publish_date": "2026-01-05",
+      "published": false,
+      "notes": "NEW - Cluster 1 Shoulder"
+    },
+    {
+      "name": "Maladie d'Osgood-Schlatter",
+      "slug": "maladie-osgood-schlatter",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694400385238df2f7bccdfb3",
+      "publish_date": "2026-01-06",
+      "published": false
+    },
+    {
+      "name": "Luxation de la rotule",
+      "slug": "luxation-rotule",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69440038d8d8d740dbdeb5fa",
+      "publish_date": "2026-01-07",
+      "published": false
+    },
+    {
+      "name": "Comprendre les tendons",
+      "slug": "comprendre-tendons",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f76ed2eff02f914d2ec",
+      "publish_date": "2026-01-08",
+      "published": false,
+      "notes": "NEW - Cluster 1 Shoulder"
+    },
+    {
+      "name": "La thérapie manuelle",
+      "slug": "therapie-manuelle",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694a6f76af2fb0776a3c9d16",
+      "publish_date": "2026-01-09",
+      "published": false,
+      "notes": "NEW - Cluster 1 Shoulder"
+    },
+    {
       "name": "Douleur au genou : Guide complet",
       "slug": "douleur-au-genou-guide-complet",
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "695fab0ca5ffe85796a5c5a0",
-      "publish_date": "2026-01-13",
+      "publish_date": "2026-01-10",
       "published": false,
       "notes": "NEW - Knee Cluster Phase 1 Power Hub"
+    },
+    {
+      "name": "Anatomie genou antérieur",
+      "slug": "anatomie-genou-anterieur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694400395238df2f7bcce019",
+      "publish_date": "2026-01-11",
+      "published": false
+    },
+    {
+      "name": "Biomécanique rotulienne",
+      "slug": "biomecanique-rotule",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694400392aa2a73b465655c8",
+      "publish_date": "2026-01-12",
+      "published": false
     },
     {
       "name": "Physiothérapie pour la douleur au genou",
@@ -521,9 +247,27 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "695fab0da5ffe85796a5c67e",
-      "publish_date": "2026-01-16",
+      "publish_date": "2026-01-13",
       "published": false,
       "notes": "NEW - Knee Cluster Phase 1 Service Page"
+    },
+    {
+      "name": "Quadriceps et douleur genou",
+      "slug": "quadriceps-douleur-genou",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "6944003a8f3c4bc2c8a0c63d",
+      "publish_date": "2026-01-14",
+      "published": false
+    },
+    {
+      "name": "Protocole de repos structuré",
+      "slug": "protocole-repos-structure-4-phases",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "6944003a5238df2f7bcce093",
+      "publish_date": "2026-01-15",
+      "published": false
     },
     {
       "name": "Douleur à la hanche : Guide complet",
@@ -531,9 +275,18 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "695fda7eb5918b3becf133dc",
-      "publish_date": "2026-01-20",
+      "publish_date": "2026-01-16",
       "published": false,
       "notes": "NEW - Hip Cluster Phase 2 Power Hub"
+    },
+    {
+      "name": "Douleur cervicale : Guide complet",
+      "slug": "douleur-cervicale-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac1a159c0a373caeb9e",
+      "publish_date": "2026-01-17",
+      "published": false
     },
     {
       "name": "Physiothérapie pour la douleur à la hanche",
@@ -541,9 +294,27 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "695fda7f72d6b2b32872f261",
-      "publish_date": "2026-01-23",
+      "publish_date": "2026-01-18",
       "published": false,
       "notes": "NEW - Hip Cluster Phase 2 Service Page"
+    },
+    {
+      "name": "Physiothérapie pour douleur cervicale",
+      "slug": "physiotherapie-pour-douleur-cervicale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac224111ab3d305bb32",
+      "publish_date": "2026-01-19",
+      "published": false
+    },
+    {
+      "name": "Sténose cervicale",
+      "slug": "stenose-cervicale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69447ac4296fcb18208b336d",
+      "publish_date": "2026-01-20",
+      "published": false
     },
     {
       "name": "Douleur au pied et à la cheville : Guide complet",
@@ -551,9 +322,27 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69601f938c82e9126c8ad11d",
-      "publish_date": "2026-01-27",
+      "publish_date": "2026-01-21",
       "published": false,
       "notes": "NEW - Ankle/Foot Cluster Phase 3 Power Hub"
+    },
+    {
+      "name": "Anatomie cervicale",
+      "slug": "anatomie-cervicale",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac396b0cc30b196d5fc",
+      "publish_date": "2026-01-22",
+      "published": false
+    },
+    {
+      "name": "Céphalées cervicogéniques",
+      "slug": "cephalees-cervicogeniques",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac3635ea8659725f7a7",
+      "publish_date": "2026-01-23",
+      "published": false
     },
     {
       "name": "Physiothérapie pour la douleur au pied et à la cheville",
@@ -561,9 +350,220 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69601f933b957564bdc2670b",
-      "publish_date": "2026-01-30",
+      "publish_date": "2026-01-24",
       "published": false,
       "notes": "NEW - Ankle/Foot Cluster Phase 3 Service Page"
+    },
+    {
+      "name": "Physiothérapie vestibulaire",
+      "slug": "physiotherapie-vestibulaire",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69447ac496b0cc30b196d754",
+      "publish_date": "2026-01-25",
+      "published": false
+    },
+    {
+      "name": "Comprendre la douleur chronique (Power Hub)",
+      "slug": "comprendre-la-douleur-chronique",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "694553ba6a2bd321dc35289a",
+      "publish_date": "2026-01-26",
+      "published": false
+    },
+    {
+      "name": "Douleur aiguë vs chronique",
+      "slug": "douleur-aigue-vs-chronique",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553ba7d30d911e0ea2f01",
+      "publish_date": "2026-01-27",
+      "published": false
+    },
+    {
+      "name": "Neuroscience de la douleur",
+      "slug": "neuroscience-de-la-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc08db1bd9bfa6f6e3",
+      "publish_date": "2026-01-28",
+      "published": false
+    },
+    {
+      "name": "Psychologie de la douleur",
+      "slug": "psychologie-de-la-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc6552884f16b57500",
+      "publish_date": "2026-01-29",
+      "published": false
+    },
+    {
+      "name": "Douleur neuropathique",
+      "slug": "douleur-neuropathique",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bc1d54db0e95caec14",
+      "publish_date": "2026-01-30",
+      "published": false
+    },
+    {
+      "name": "Douleur inflammatoire",
+      "slug": "douleur-inflammatoire",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bd43404c92d31164e1",
+      "publish_date": "2026-01-31",
+      "published": false
+    },
+    {
+      "name": "Douleur fonctionnelle (nociplastique)",
+      "slug": "douleur-fonctionnelle",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553bd43404c92d3116510",
+      "publish_date": "2026-02-01",
+      "published": false
+    },
+    {
+      "name": "Stratégies de gestion de la douleur",
+      "slug": "strategies-gestion-douleur",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "694553be822adaf40d2c4692",
+      "publish_date": "2026-02-02",
+      "published": false
+    },
+    {
+      "name": "Lombo-sciatalgie (Sciatique)",
+      "slug": "lombo-sciatalgie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956a52bdf94728297df1",
+      "publish_date": "2026-02-03",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Hernie discale lombaire",
+      "slug": "hernie-discale-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956aa7ec9ebf1d825edd",
+      "publish_date": "2026-02-04",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Sténose spinale lombaire",
+      "slug": "stenose-spinale-ou-centrale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956b4ba76f99da1560a2",
+      "publish_date": "2026-02-05",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Arthrose lombaire",
+      "slug": "arthrose-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956b26e6c5007fe3eacd",
+      "publish_date": "2026-02-06",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Lombo-cruralgie",
+      "slug": "lombo-cruralgie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956aa399e4ad698995e8",
+      "publish_date": "2026-02-07",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Spondylolisthésis",
+      "slug": "spondylolisthesis",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8b6c164b6404b8681b",
+      "publish_date": "2026-02-08",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Coccygodynie",
+      "slug": "coccygodynie",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "67c8956c466df1703f062665",
+      "publish_date": "2026-02-09",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Fracture vertébrale lombaire",
+      "slug": "fracture-vertebrale-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8d7a4c7c302318314b",
+      "publish_date": "2026-02-10",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Discopathie dégénérative",
+      "slug": "discopathie-degenerative",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a8f9e2087b8b3757f36",
+      "publish_date": "2026-02-11",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Syndrome facettaire lombaire",
+      "slug": "syndrome-facettaire-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b0a906f35e0e3f1434f98",
+      "publish_date": "2026-02-12",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Préférence directionnelle lombaire",
+      "slug": "preference-directionnelle-lombaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "693b00d0b1125a0f59ae1022",
+      "publish_date": "2026-02-13",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Anatomie de la colonne vertébrale",
+      "slug": "anatomie-colonne-vertebrale",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "693b75a3583d155277351c91",
+      "publish_date": "2026-02-14",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
+    },
+    {
+      "name": "Comprendre vos disques intervertébraux",
+      "slug": "comprendre-disques-intervertebraux",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "693b75a394f20ef2a56f6829",
+      "publish_date": "2026-02-15",
+      "published": false,
+      "notes": "Cluster 2 Back - UPDATE existing"
     },
     {
       "name": "Douleur au coude : Guide complet",
@@ -571,7 +571,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf19b6ddcca9cca444a",
-      "publish_date": "2026-03-06",
+      "publish_date": "2026-02-16",
       "published": false,
       "notes": "NEW - Elbow Cluster Phase 4 Power Hub"
     },
@@ -581,7 +581,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf26f1358487a4a3448",
-      "publish_date": "2026-03-10",
+      "publish_date": "2026-02-17",
       "published": false,
       "notes": "NEW - Elbow Cluster Phase 4 Service Page"
     },
@@ -591,7 +591,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf35aa1c668f713d49c",
-      "publish_date": "2026-03-13",
+      "publish_date": "2026-02-18",
       "published": false,
       "notes": "NEW - Wrist/Hand Cluster Phase 4 Power Hub"
     },
@@ -601,7 +601,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf3bd0247b6db6dda34",
-      "publish_date": "2026-03-17",
+      "publish_date": "2026-02-19",
       "published": false,
       "notes": "NEW - Wrist/Hand Cluster Phase 4 Service Page"
     },
@@ -611,7 +611,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69603007b3141c8688a09321",
-      "publish_date": "2026-03-20",
+      "publish_date": "2026-02-20",
       "published": false,
       "notes": "NEW - Pelvic Floor Phase 5 Service Page"
     },
@@ -621,7 +621,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696148fffcc49a66d25cf2e0",
-      "publish_date": "2026-03-24",
+      "publish_date": "2026-02-21",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage overview hub"
     },
@@ -631,7 +631,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696148ff7a6bcbef2a2e5e7d",
-      "publish_date": "2026-03-24",
+      "publish_date": "2026-02-22",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -641,7 +641,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6961490095ed0f8848b2ea05",
-      "publish_date": "2026-03-27",
+      "publish_date": "2026-02-23",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -651,7 +651,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614900f5501d9f0b1032fc",
-      "publish_date": "2026-03-27",
+      "publish_date": "2026-02-24",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -661,7 +661,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614901fcc49a66d25cf40d",
-      "publish_date": "2026-03-31",
+      "publish_date": "2026-02-25",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -671,7 +671,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614902ad9f1939e09353b6",
-      "publish_date": "2026-03-31",
+      "publish_date": "2026-02-26",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -681,7 +681,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6961490237581c1020efe453",
-      "publish_date": "2026-04-03",
+      "publish_date": "2026-02-27",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -691,7 +691,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614903c78a91de425cf5eb",
-      "publish_date": "2026-04-03",
+      "publish_date": "2026-02-28",
       "published": false,
       "notes": "NEW - Phase 6 Tête/Visage cluster"
     },
@@ -701,7 +701,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696149037a6bcbef2a2e5f21",
-      "publish_date": "2026-04-07",
+      "publish_date": "2026-03-01",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     },
@@ -711,7 +711,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696149042629c42c15dcd0e4",
-      "publish_date": "2026-04-07",
+      "publish_date": "2026-03-02",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     },
@@ -721,7 +721,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614904c901c92f33fbd564",
-      "publish_date": "2026-04-10",
+      "publish_date": "2026-03-03",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     },
@@ -731,7 +731,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614905ad9f1939e093556f",
-      "publish_date": "2026-04-10",
+      "publish_date": "2026-03-04",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     },
@@ -741,7 +741,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614906ad9f1939e0935594",
-      "publish_date": "2026-04-14",
+      "publish_date": "2026-03-05",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     },
@@ -751,7 +751,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6961490637581c1020efe660",
-      "publish_date": "2026-04-14",
+      "publish_date": "2026-03-06",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
     }
