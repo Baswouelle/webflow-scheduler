@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2026-01-08",
-  "notes": "Added Pelvic Floor Phase 5. Elbow + Wrist/Hand Cluster Phase 4 added. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule.",
+  "last_updated": "2026-01-09",
+  "notes": "Added Pelvic Floor Phase 5. Elbow + Wrist/Hand Cluster Phase 4 added. Ankle/Foot Cluster Phase 3 added. Hip Cluster Phase 2 added. Knee Cluster Phase 1 added. Cluster 2 Back complete. All on 3-day drip schedule. Phase 6 (Tête/Visage + Supporting Regions) added: 14 articles on 3-4 day drip schedule.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -614,6 +614,146 @@
       "publish_date": "2026-03-20",
       "published": false,
       "notes": "NEW - Pelvic Floor Phase 5 Service Page"
+    },
+    {
+      "name": "Douleur à la tête et au visage : comprendre vos symptômes",
+      "slug": "douleur-tete-visage-guide",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "696148fffcc49a66d25cf2e0",
+      "publish_date": "2026-03-24",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage overview hub"
+    },
+    {
+      "name": "Douleur à la mâchoire (ATM) : causes, symptômes et traitement",
+      "slug": "douleur-machoire-atm",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "696148ff7a6bcbef2a2e5e7d",
+      "publish_date": "2026-03-24",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Physiothérapie pour la douleur à la mâchoire (ATM)",
+      "slug": "physiotherapie-machoire-atm",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "6961490095ed0f8848b2ea05",
+      "publish_date": "2026-03-27",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Maux de tête et céphalées : causes, types et traitement",
+      "slug": "maux-de-tete-cephalees",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614900f5501d9f0b1032fc",
+      "publish_date": "2026-03-27",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Physiothérapie pour les maux de tête : traitement efficace des céphalées",
+      "slug": "physiotherapie-maux-de-tete",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614901fcc49a66d25cf40d",
+      "publish_date": "2026-03-31",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Vertigo et étourdissements : causes, symptômes et traitement",
+      "slug": "vertigo-etourdissements",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614902ad9f1939e09353b6",
+      "publish_date": "2026-03-31",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Commotion cérébrale : symptômes, récupération et traitement",
+      "slug": "commotion-cerebrale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "6961490237581c1020efe453",
+      "publish_date": "2026-04-03",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Physiothérapie pour commotion cérébrale : traitement et récupération",
+      "slug": "physiotherapie-commotion-cerebrale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614903c78a91de425cf5eb",
+      "publish_date": "2026-04-03",
+      "published": false,
+      "notes": "NEW - Phase 6 Tête/Visage cluster"
+    },
+    {
+      "name": "Douleur au dos thoracique : causes, symptômes et traitement",
+      "slug": "douleur-dos-thoracique",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "696149037a6bcbef2a2e5f21",
+      "publish_date": "2026-04-07",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au dos thoracique",
+      "slug": "physiotherapie-douleur-dos-thoracique",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "696149042629c42c15dcd0e4",
+      "publish_date": "2026-04-07",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Douleur à la cuisse : causes, symptômes et traitement",
+      "slug": "douleur-cuisse",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614904c901c92f33fbd564",
+      "publish_date": "2026-04-10",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Physiothérapie pour la douleur à la cuisse",
+      "slug": "physiotherapie-douleur-cuisse",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614905ad9f1939e093556f",
+      "publish_date": "2026-04-10",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Douleur au mollet : causes, symptômes et traitement",
+      "slug": "douleur-mollet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69614906ad9f1939e0935594",
+      "publish_date": "2026-04-14",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Physiothérapie pour la douleur au mollet",
+      "slug": "physiotherapie-douleur-mollet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "6961490637581c1020efe660",
+      "publish_date": "2026-04-14",
+      "published": false,
+      "notes": "NEW - Phase 6 Supporting Regions"
     }
   ]
 }
