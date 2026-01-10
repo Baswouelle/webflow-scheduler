@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2026-01-09",
-  "notes": "Rescheduled to 1 article per day (previously 2 per day). All phases included.",
+  "last_updated": "2026-01-10",
+  "notes": "Phase 7 (11 articles) added: Pain Types Taxonomy. 1 article/day from 2026-03-07 to 2026-03-17.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -754,6 +754,116 @@
       "publish_date": "2026-03-06",
       "published": false,
       "notes": "NEW - Phase 6 Supporting Regions"
+    },
+    {
+      "name": "Douleur articulaire : Guide complet pour comprendre et soulager vos articulations",
+      "slug": "douleur-articulaire-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a56010f846b473faab1",
+      "publish_date": "2026-03-07",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur articulaire : comment la physiothérapie traite vos articulations",
+      "slug": "physiotherapie-douleur-articulaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a57201a3c75300496e2",
+      "publish_date": "2026-03-08",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Douleur musculaire : Guide complet",
+      "slug": "douleur-musculaire-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a573ab21e7af264b6a9",
+      "publish_date": "2026-03-09",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur musculaire",
+      "slug": "physiotherapie-douleur-musculaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a57e92e28509cb3cd9f",
+      "publish_date": "2026-03-10",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Douleur ligamentaire : Guide complet",
+      "slug": "douleur-ligamentaire-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a5879b3bbddeb5642c5",
+      "publish_date": "2026-03-11",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur ligamentaire",
+      "slug": "physiotherapie-douleur-ligamentaire",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a58010f846b473fabbd",
+      "publish_date": "2026-03-12",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Douleur aiguë : Guide complet pour comprendre et soulager",
+      "slug": "douleur-aigue-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a59fb04a09ea619c539",
+      "publish_date": "2026-03-13",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur aiguë : traitement des blessures",
+      "slug": "physiotherapie-douleur-aigue",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a5958c06e32ff40806c",
+      "publish_date": "2026-03-14",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur chronique : approche globale",
+      "slug": "physiotherapie-douleur-chronique",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a599a9848c272719ae5",
+      "publish_date": "2026-03-15",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Douleur neurale : Guide complet pour comprendre et gérer",
+      "slug": "douleur-neurale-guide-complet",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a5a9a9848c272719b15",
+      "publish_date": "2026-03-16",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
+    },
+    {
+      "name": "Physiothérapie pour la douleur neurale : techniques spécialisées pour traiter la douleur nerveuse",
+      "slug": "physiotherapie-douleur-neurale",
+      "collection": "Guide Complet",
+      "collection_id": "67c0ab311dc962020babaa51",
+      "item_id": "69629a5a0cc1c34e1fca2afd",
+      "publish_date": "2026-03-17",
+      "published": false,
+      "notes": "Phase 7 - Pain Types Taxonomy"
     }
   ]
 }
