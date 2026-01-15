@@ -21,15 +21,36 @@ def load_schedule():
 
 
 def get_todays_articles(schedule):
-    """Get articles scheduled for today"""
+    """Get articles scheduled for today at the current time slot (AM or PM)"""
     today = date.today().isoformat()  # Format: YYYY-MM-DD
+
+    # Determine current time slot based on UTC hour
+    # GitHub Actions runs at 14:00 UTC (9 AM EST) and 23:00 UTC (6 PM EST)
+    current_hour = datetime.now().hour
+
+    # Map UTC hours to publish_time
+    if 13 <= current_hour <= 17:  # Around 14:00 UTC = 9 AM EST
+        target_time = "09:00"
+    elif 22 <= current_hour or current_hour <= 2:  # Around 23:00 UTC = 6 PM EST
+        target_time = "18:00"
+    else:
+        # Fallback: publish all articles for today if run at unexpected time
+        target_time = None
 
     articles_to_publish = []
     for article in schedule["articles"]:
         if article["publish_date"] == today and not article.get("published", False):
-            articles_to_publish.append(article)
+            # If publish_time field exists, check it matches target_time
+            if "publish_time" in article:
+                if target_time and article["publish_time"] == target_time:
+                    articles_to_publish.append(article)
+                elif not target_time:  # Fallback: publish all
+                    articles_to_publish.append(article)
+            else:
+                # Legacy: no publish_time field, publish all for today
+                articles_to_publish.append(article)
 
-    return articles_to_publish
+    return articles_to_publish, target_time
 
 
 def publish_items(collection_id: str, item_ids: list, api_token: str) -> dict:
@@ -107,14 +128,16 @@ def main():
         print(f"ERROR: Could not load schedule.json: {e}")
         return 1
 
-    # Get today's articles
-    articles = get_todays_articles(schedule)
+    # Get today's articles for current time slot
+    articles, target_time = get_todays_articles(schedule)
 
     if not articles:
-        print("No articles scheduled for today. Nothing to publish.")
+        time_slot = f" at {target_time}" if target_time else ""
+        print(f"No articles scheduled for today{time_slot}. Nothing to publish.")
         return 0
 
-    print(f"\nArticles to publish today: {len(articles)}")
+    time_slot = f" ({target_time})" if target_time else ""
+    print(f"\nArticles to publish today{time_slot}: {len(articles)}")
     for article in articles:
         print(f"  - {article['name']} (Collection: {article['collection']})")
 

@@ -5,13 +5,16 @@
 name: Publish Scheduled Articles
 
 on:
-  # Run daily at 9:00 AM Montreal time
+  # Run twice daily: 9:00 AM and 6:00 PM Montreal time
   # Note: GitHub uses UTC, so we account for timezone
   # Montreal is UTC-5 (EST) or UTC-4 (EDT)
   # 9 AM Montreal = 14:00 UTC (winter) or 13:00 UTC (summer)
+  # 6 PM Montreal = 23:00 UTC (winter) or 22:00 UTC (summer)
   schedule:
     - cron: '0 14 * * *'  # 9 AM EST (winter)
+    - cron: '0 23 * * *'  # 6 PM EST (winter)
     # - cron: '0 13 * * *'  # 9 AM EDT (summer) - uncomment during daylight saving
+    # - cron: '0 22 * * *'  # 6 PM EDT (summer) - uncomment during daylight saving
 
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
