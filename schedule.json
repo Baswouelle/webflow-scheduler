@@ -152,10 +152,11 @@
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
             "item_id": "694a6f75a4fc2e4fca3477b4",
-            "publish_date": "2026-01-16",
-            "published": false,
+            "publish_date": "2026-01-15",
+            "published": true,
             "notes": "NEW - Cluster 1 Shoulder",
-            "publish_time": "09:00"
+            "publish_time": "09:00",
+            "published_at": "2026-01-15T12:22:32.244336"
         },
         {
             "name": "Comprendre les tendons",
@@ -163,7 +164,7 @@
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
             "item_id": "694a6f76ed2eff02f914d2ec",
-            "publish_date": "2026-01-16",
+            "publish_date": "2026-01-15",
             "published": false,
             "notes": "NEW - Cluster 1 Shoulder",
             "publish_time": "18:00"
