@@ -1,6 +1,6 @@
 {
     "site_id": "670e84ccd653d18590687563",
-    "last_updated": "2026-01-15",
+    "last_updated": "2026-01-19",
     "notes": "Redistributed 76 articles: 2/day (AM 9:00 + PM 18:00), no gaps",
     "articles": [
         {
@@ -733,6 +733,17 @@
             "publish_time": "18:00"
         },
         {
+            "name": "Douleur au plancher pelvien : Guide complet",
+            "slug": "douleur-plancher-pelvien-guide-complet",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "696dbbb55dd80f1cadd45e08",
+            "publish_date": "2026-02-11",
+            "published": false,
+            "notes": "NEW - Cluster Pelvic Floor (Power Hub)",
+            "publish_time": "12:00"
+        },
+        {
             "name": "Physiothérapie du plancher pelvien",
             "slug": "physiotherapie-plancher-pelvien",
             "collection": "Guide Complet",
@@ -966,6 +977,83 @@
             "published": false,
             "notes": "NEW - Other",
             "publish_time": "18:00"
+        },
+        {
+            "name": "Anatomie du genou",
+            "slug": "anatomie-genou",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e6bfccd54fa80413bd",
+            "publish_date": "2026-02-23",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie du pied",
+            "slug": "anatomie-pied",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e6bfccd54fa80413e3",
+            "publish_date": "2026-02-23",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie de la main",
+            "slug": "anatomie-main",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e73f0916e62e85a480",
+            "publish_date": "2026-02-24",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie du coude",
+            "slug": "anatomie-coude",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e70d623272ee0fda97",
+            "publish_date": "2026-02-24",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie de l'épaule",
+            "slug": "anatomie-epaule",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e7a311fd647b57a630",
+            "publish_date": "2026-02-25",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie de la hanche",
+            "slug": "anatomie-hanche",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e8bfccd54fa804145d",
+            "publish_date": "2026-02-25",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
+        },
+        {
+            "name": "Anatomie de la colonne vertébrale",
+            "slug": "anatomie-colonne-vertebrale",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696e82e8107ed3a3966e4ae8",
+            "publish_date": "2026-02-26",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "NEW - Phase 9 Anatomy Cluster"
         }
     ]
 }
