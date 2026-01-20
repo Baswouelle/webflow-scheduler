@@ -1192,6 +1192,160 @@
             "publish_date": "2026-01-24",
             "published": false,
             "notes": "Phase 7 - Pain Types"
+        },
+        {
+            "name": "Types de physiothérapie : Les 8 spécialités expliquées",
+            "slug": "types-de-physiotherapie-specialites",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0e75675cba23e91a405",
+            "publish_date": "2026-03-06",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 12 - Types Hub (foundational)"
+        },
+        {
+            "name": "Qui traitons-nous : Physiothérapie adaptée à chaque population",
+            "slug": "qui-traitons-nous-populations",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0e75675cba23e91a463",
+            "publish_date": "2026-03-06",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 11 - Populations Hub (foundational)"
+        },
+        {
+            "name": "Physiothérapie musculosquelettique : Guide complet",
+            "slug": "physiotherapie-musculosquelettique",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0e828b58bfea7ee6a8f",
+            "publish_date": "2026-03-07",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie sportive : Blessures et performance",
+            "slug": "physiotherapie-sportive",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0e8445cc7cf93e3867f",
+            "publish_date": "2026-03-07",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie neurologique : Réadaptation des conditions neurologiques",
+            "slug": "physiotherapie-neurologique",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0e920a85bfc02a4fc39",
+            "publish_date": "2026-03-08",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie en santé des femmes : Guide complet",
+            "slug": "physiotherapie-sante-des-femmes",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0ea2a8ad49e3cd3ab15",
+            "publish_date": "2026-03-08",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie gériatrique : Soins pour aînés",
+            "slug": "physiotherapie-geriatrique-specialite",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0ebfaa043bb2f572707",
+            "publish_date": "2026-03-09",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie pédiatrique : Enfants et ados",
+            "slug": "physiotherapie-pediatrique-specialite",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0eb82656a79ca34b4cb",
+            "publish_date": "2026-03-09",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 12 - Types Specialty"
+        },
+        {
+            "name": "Physiothérapie cardiovasculaire : Réadaptation cardiaque",
+            "slug": "physiotherapie-cardiovasculaire",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0ecf00b9815fe247ded",
+            "publish_date": "2026-03-10",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 12 - Types Specialty (educational)"
+        },
+        {
+            "name": "Physiothérapie respiratoire : Conditions pulmonaires",
+            "slug": "physiotherapie-respiratoire",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0edf135945db42eeecf",
+            "publish_date": "2026-03-10",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 12 - Types Specialty (educational)"
+        },
+        {
+            "name": "Physiothérapie pour les personnes âgées : Guide complet",
+            "slug": "physiotherapie-geriatrique",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0edfaa043bb2f5727c6",
+            "publish_date": "2026-03-11",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Population Article"
+        },
+        {
+            "name": "Physiothérapie pour enfants : Guide complet",
+            "slug": "physiotherapie-pediatrique",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0ee28b58bfea7ee6df1",
+            "publish_date": "2026-03-11",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 11 - Population Article"
+        },
+        {
+            "name": "Physiothérapie prénatale : Soins pendant la grossesse",
+            "slug": "physiotherapie-prenatale",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0eebcd8401eb81220ef",
+            "publish_date": "2026-03-12",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Population Article"
+        },
+        {
+            "name": "Physiothérapie postnatale : Récupération après accouchement",
+            "slug": "physiotherapie-postnatale",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fb0ef5675cba23e91a9fc",
+            "publish_date": "2026-03-12",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 11 - Population Article"
         }
     ]
 }
