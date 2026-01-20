@@ -1,7 +1,7 @@
 {
     "site_id": "670e84ccd653d18590687563",
     "last_updated": "2026-01-20",
-    "notes": "Redistributed 76 articles: 2/day (AM 9:00 + PM 18:00), no gaps",
+    "notes": "Redistributed 136 articles including Phase 11 Tissue Types",
     "articles": [
         {
             "name": "Douleur antérieure au genou (Power Hub)",
@@ -1390,6 +1390,83 @@
             "published": false,
             "publish_time": "18:00",
             "notes": "Phase 13 - Shoulder Pathologies (Treatment Guide)"
+        },
+        {
+            "name": "Comprendre les tendons",
+            "slug": "comprendre-les-tendons",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd73688d6d0b802f999fd",
+            "publish_date": "2026-03-10",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre les ligaments",
+            "slug": "comprendre-les-ligaments",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd4f44fc788422b19b7ac",
+            "publish_date": "2026-03-13",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre les muscles",
+            "slug": "comprendre-les-muscles",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd737a9ec9d0e094ec26b",
+            "publish_date": "2026-03-17",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre les os",
+            "slug": "comprendre-les-os",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd4f54fc788422b19b7ed",
+            "publish_date": "2026-03-24",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre les articulations",
+            "slug": "comprendre-les-articulations",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd7379686c0728661a99a",
+            "publish_date": "2026-03-27",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre les capsules articulaires",
+            "slug": "comprendre-les-capsules-articulaires",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd736a9ec9d0e094ebf06",
+            "publish_date": "2026-03-31",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Comprendre le fascia",
+            "slug": "comprendre-le-fascia",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fd7352a98a727d19679a1",
+            "publish_date": "2026-04-03",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
         }
     ]
 }
