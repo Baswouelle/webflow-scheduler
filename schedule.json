@@ -1,6 +1,6 @@
 {
     "site_id": "670e84ccd653d18590687563",
-    "last_updated": "2026-01-19",
+    "last_updated": "2026-01-20",
     "notes": "Redistributed 76 articles: 2/day (AM 9:00 + PM 18:00), no gaps",
     "articles": [
         {
@@ -1346,6 +1346,50 @@
             "published": false,
             "publish_time": "18:00",
             "notes": "Phase 11 - Population Article"
+        },
+        {
+            "name": "Bursite à l'épaule : Traitement et guérison en physio",
+            "slug": "bursite-a-l-epaule",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "696fd16cb265b5354111d6e4",
+            "publish_date": "2026-01-27",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Shoulder Pathologies (Guide Complet)"
+        },
+        {
+            "name": "Physiothérapie pour bursite à l'épaule",
+            "slug": "physiotherapie-pour-bursite-a-l-epaule",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "696fd16d370bbc0086d41e8f",
+            "publish_date": "2026-01-27",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 13 - Shoulder Pathologies (Treatment Guide)"
+        },
+        {
+            "name": "Luxation de l'épaule : Guide complet",
+            "slug": "luxation-de-l-epaule",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "696fd16e13f1e3553af71727",
+            "publish_date": "2026-01-30",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Shoulder Pathologies (Guide Complet)"
+        },
+        {
+            "name": "Physiothérapie pour luxation de l'épaule",
+            "slug": "physiotherapie-pour-luxation-de-l-epaule",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "696fd171930f8bc2f570e59d",
+            "publish_date": "2026-01-30",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase 13 - Shoulder Pathologies (Treatment Guide)"
         }
     ]
 }
