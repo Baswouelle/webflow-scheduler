@@ -1425,6 +1425,17 @@
             "notes": "Phase 11 - Tissue Types (Educational)"
         },
         {
+            "name": "Comprendre les nerfs",
+            "slug": "comprendre-les-nerfs",
+            "collection": "Ressources",
+            "collection_id": "67165e64411a14330fa9c958",
+            "item_id": "696fe782119d9b904bb178f8",
+            "publish_date": "2026-03-20",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
             "name": "Comprendre les os",
             "slug": "comprendre-les-os",
             "collection": "Ressources",
