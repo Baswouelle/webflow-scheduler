@@ -4,7 +4,7 @@
     "notes": "Redistributed 76 articles: 2/day (AM 9:00 + PM 18:00), no gaps",
     "articles": [
         {
-            "name": "Douleur ant\u00e9rieure au genou (Power Hub)",
+            "name": "Douleur antérieure au genou (Power Hub)",
             "slug": "douleur-anterieure-genou",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -14,7 +14,7 @@
             "published_at": "2025-12-24"
         },
         {
-            "name": "Physioth\u00e9rapie pour douleur ant\u00e9rieure au genou",
+            "name": "Physiothérapie pour douleur antérieure au genou",
             "slug": "physiotherapie-douleur-anterieure-genou",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -24,7 +24,7 @@
             "published_at": "2025-12-25"
         },
         {
-            "name": "Douleur \u00e0 l'\u00e9paule : Guide complet (Power Hub)",
+            "name": "Douleur à l'épaule : Guide complet (Power Hub)",
             "slug": "douleur-epaule-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -35,7 +35,7 @@
             "notes": "NEW - Cluster 1 Shoulder"
         },
         {
-            "name": "Physioth\u00e9rapie pour douleur \u00e0 l'\u00e9paule (Power Hub)",
+            "name": "Physiothérapie pour douleur à l'épaule (Power Hub)",
             "slug": "physiotherapie-pour-douleur-epaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -46,7 +46,7 @@
             "notes": "NEW - Cluster 1 Shoulder"
         },
         {
-            "name": "Syndrome f\u00e9moro-patellaire",
+            "name": "Syndrome fémoro-patellaire",
             "slug": "syndrome-femoro-patellaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -67,7 +67,7 @@
             "notes": "Cluster 2 Back - Power Hub"
         },
         {
-            "name": "Capsulite de l'\u00e9paule",
+            "name": "Capsulite de l'épaule",
             "slug": "capsulite",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -87,7 +87,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "Bursite \u00e0 l'\u00e9paule",
+            "name": "Bursite à l'épaule",
             "slug": "bursite-a-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -97,7 +97,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "Luxation de l'\u00e9paule",
+            "name": "Luxation de l'épaule",
             "slug": "luxation-de-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -107,7 +107,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "Syndrome d'accrochage de l'\u00e9paule",
+            "name": "Syndrome d'accrochage de l'épaule",
             "slug": "syndrome-daccrochage-a-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -127,7 +127,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "Tendinite calcifiante de l'\u00e9paule",
+            "name": "Tendinite calcifiante de l'épaule",
             "slug": "tendinite-calcifiante-a-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -137,7 +137,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "D\u00e9chirure de la coiffe des rotateurs",
+            "name": "Déchirure de la coiffe des rotateurs",
             "slug": "dechirure-de-la-coiffe-des-rotateurs-a-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -147,7 +147,7 @@
             "notes": "UPDATED - already existed on site"
         },
         {
-            "name": "Anatomie de l'\u00e9paule",
+            "name": "Anatomie de l'épaule",
             "slug": "anatomie-epaule",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -170,7 +170,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "D\u00e9chirure de la coiffe des rotateurs \u00e0 l'\u00e9paule",
+            "name": "Déchirure de la coiffe des rotateurs à l'épaule",
             "slug": "dechirure-de-la-coiffe-des-rotateurs-a-lepaule",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -192,7 +192,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "La th\u00e9rapie manuelle",
+            "name": "La thérapie manuelle",
             "slug": "therapie-manuelle",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -203,7 +203,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Anatomie genou ant\u00e9rieur",
+            "name": "Anatomie genou antérieur",
             "slug": "anatomie-genou-anterieur",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -214,7 +214,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Biom\u00e9canique rotulienne",
+            "name": "Biomécanique rotulienne",
             "slug": "biomecanique-rotule",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -255,7 +255,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au genou",
+            "name": "Physiothérapie pour la douleur au genou",
             "slug": "physiotherapie-douleur-genou",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -286,7 +286,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Anatomie de la colonne vert\u00e9brale",
+            "name": "Anatomie de la colonne vertébrale",
             "slug": "anatomie-colonne-vertebrale",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -319,7 +319,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Comprendre vos disques intervert\u00e9braux",
+            "name": "Comprendre vos disques intervertébraux",
             "slug": "comprendre-disques-intervertebraux",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -330,7 +330,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Discopathie d\u00e9g\u00e9n\u00e9rative",
+            "name": "Discopathie dégénérative",
             "slug": "discopathie-degenerative",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -341,7 +341,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur au dos thoracique : causes, sympt\u00f4mes et traitement",
+            "name": "Douleur au dos thoracique : causes, symptômes et traitement",
             "slug": "douleur-dos-thoracique",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -352,7 +352,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Fracture vert\u00e9brale lombaire",
+            "name": "Fracture vertébrale lombaire",
             "slug": "fracture-vertebrale-lombaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -396,7 +396,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au dos thoracique",
+            "name": "Physiothérapie pour la douleur au dos thoracique",
             "slug": "physiotherapie-douleur-dos-thoracique",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -407,7 +407,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour mal de dos (Power Hub)",
+            "name": "Physiothérapie pour mal de dos (Power Hub)",
             "slug": "physiotherapie-douleur-lombaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -418,7 +418,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Pr\u00e9f\u00e9rence directionnelle lombaire",
+            "name": "Préférence directionnelle lombaire",
             "slug": "preference-directionnelle-lombaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -429,7 +429,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Spondylolisth\u00e9sis",
+            "name": "Spondylolisthésis",
             "slug": "spondylolisthesis",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -440,7 +440,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "St\u00e9nose spinale lombaire",
+            "name": "Sténose spinale lombaire",
             "slug": "stenose-spinale-ou-centrale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -473,7 +473,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "C\u00e9phal\u00e9es cervicog\u00e9niques",
+            "name": "Céphalées cervicogéniques",
             "slug": "cephalees-cervicogeniques",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -493,7 +493,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour douleur cervicale",
+            "name": "Physiothérapie pour douleur cervicale",
             "slug": "physiotherapie-pour-douleur-cervicale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -503,7 +503,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "St\u00e9nose cervicale",
+            "name": "Sténose cervicale",
             "slug": "stenose-cervicale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -513,7 +513,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur \u00e0 la hanche : Guide complet",
+            "name": "Douleur à la hanche : Guide complet",
             "slug": "douleur-hanche-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -524,7 +524,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur \u00e0 la hanche",
+            "name": "Physiothérapie pour la douleur à la hanche",
             "slug": "physiotherapie-douleur-hanche",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -535,7 +535,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur au pied et \u00e0 la cheville : Guide complet",
+            "name": "Douleur au pied et à la cheville : Guide complet",
             "slug": "douleur-pied-cheville-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -546,7 +546,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au pied et \u00e0 la cheville",
+            "name": "Physiothérapie pour la douleur au pied et à la cheville",
             "slug": "physiotherapie-douleur-pied-cheville",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -568,7 +568,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au coude",
+            "name": "Physiothérapie pour la douleur au coude",
             "slug": "physiotherapie-douleur-coude",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -579,7 +579,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur au poignet et \u00e0 la main : Guide complet",
+            "name": "Douleur au poignet et à la main : Guide complet",
             "slug": "douleur-poignet-main-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -590,7 +590,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au poignet et \u00e0 la main",
+            "name": "Physiothérapie pour la douleur au poignet et à la main",
             "slug": "physiotherapie-douleur-poignet-main",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -601,95 +601,95 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Commotion c\u00e9r\u00e9brale : sympt\u00f4mes, r\u00e9cup\u00e9ration et traitement",
+            "name": "Commotion cérébrale : symptômes, récupération et traitement",
             "slug": "commotion-cerebrale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "6961490237581c1020efe453",
             "publish_date": "2026-02-06",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage",
+            "notes": "NEW - Phase 6 Tête/Visage",
             "publish_time": "09:00"
         },
         {
-            "name": "Douleur \u00e0 la m\u00e2choire (ATM) : causes, sympt\u00f4mes et traitement",
+            "name": "Douleur à la mâchoire (ATM) : causes, symptômes et traitement",
             "slug": "douleur-machoire-atm",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "696148ff7a6bcbef2a2e5e7d",
             "publish_date": "2026-02-06",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur \u00e0 la t\u00eate et au visage : comprendre vos sympt\u00f4mes",
+            "name": "Douleur à la tête et au visage : comprendre vos symptômes",
             "slug": "douleur-tete-visage-guide",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "696148fffcc49a66d25cf2e0",
             "publish_date": "2026-02-07",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage overview hub",
+            "notes": "NEW - Phase 6 Tête/Visage overview hub",
             "publish_time": "09:00"
         },
         {
-            "name": "Maux de t\u00eate et c\u00e9phal\u00e9es : causes, types et traitement",
+            "name": "Maux de tête et céphalées : causes, types et traitement",
             "slug": "maux-de-tete-cephalees",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "69614900f5501d9f0b1032fc",
             "publish_date": "2026-02-07",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour commotion c\u00e9r\u00e9brale : traitement et r\u00e9cup\u00e9ration",
+            "name": "Physiothérapie pour commotion cérébrale : traitement et récupération",
             "slug": "physiotherapie-commotion-cerebrale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "69614903c78a91de425cf5eb",
             "publish_date": "2026-02-08",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur \u00e0 la m\u00e2choire (ATM)",
+            "name": "Physiothérapie pour la douleur à la mâchoire (ATM)",
             "slug": "physiotherapie-machoire-atm",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "6961490095ed0f8848b2ea05",
             "publish_date": "2026-02-08",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour les maux de t\u00eate : traitement efficace des c\u00e9phal\u00e9es",
+            "name": "Physiothérapie pour les maux de tête : traitement efficace des céphalées",
             "slug": "physiotherapie-maux-de-tete",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "69614901fcc49a66d25cf40d",
             "publish_date": "2026-02-09",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "09:00"
         },
         {
-            "name": "Vertigo et \u00e9tourdissements : causes, sympt\u00f4mes et traitement",
+            "name": "Vertigo et étourdissements : causes, symptômes et traitement",
             "slug": "vertigo-etourdissements",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
             "item_id": "69614902ad9f1939e09353b6",
             "publish_date": "2026-02-09",
             "published": false,
-            "notes": "NEW - Phase 6 T\u00eate/Visage cluster",
+            "notes": "NEW - Phase 6 Tête/Visage cluster",
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur \u00e0 la cuisse : causes, sympt\u00f4mes et traitement",
+            "name": "Douleur à la cuisse : causes, symptômes et traitement",
             "slug": "douleur-cuisse",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -700,7 +700,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Douleur au mollet : causes, sympt\u00f4mes et traitement",
+            "name": "Douleur au mollet : causes, symptômes et traitement",
             "slug": "douleur-mollet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -711,7 +711,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur \u00e0 la cuisse",
+            "name": "Physiothérapie pour la douleur à la cuisse",
             "slug": "physiotherapie-douleur-cuisse",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -722,7 +722,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur au mollet",
+            "name": "Physiothérapie pour la douleur au mollet",
             "slug": "physiotherapie-douleur-mollet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -744,7 +744,7 @@
             "publish_time": "12:00"
         },
         {
-            "name": "Physioth\u00e9rapie du plancher pelvien",
+            "name": "Physiothérapie du plancher pelvien",
             "slug": "physiotherapie-plancher-pelvien",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -755,7 +755,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Douleur aigu\u00eb vs chronique",
+            "name": "Douleur aiguë vs chronique",
             "slug": "douleur-aigue-vs-chronique",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -816,7 +816,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Strat\u00e9gies de gestion de la douleur",
+            "name": "Stratégies de gestion de la douleur",
             "slug": "strategies-gestion-douleur",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -826,7 +826,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur aigu\u00eb : Guide complet pour comprendre et soulager",
+            "name": "Douleur aiguë : Guide complet pour comprendre et soulager",
             "slug": "douleur-aigue-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -870,7 +870,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Douleur neurale : Guide complet pour comprendre et g\u00e9rer",
+            "name": "Douleur neurale : Guide complet pour comprendre et gérer",
             "slug": "douleur-neurale-guide-complet",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -881,7 +881,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur aigu\u00eb : traitement des blessures",
+            "name": "Physiothérapie pour la douleur aiguë : traitement des blessures",
             "slug": "physiotherapie-douleur-aigue",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -892,7 +892,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur articulaire : comment la physioth\u00e9rapie traite vos articulations",
+            "name": "Physiothérapie pour la douleur articulaire : comment la physiothérapie traite vos articulations",
             "slug": "physiotherapie-douleur-articulaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -903,7 +903,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur chronique : approche globale",
+            "name": "Physiothérapie pour la douleur chronique : approche globale",
             "slug": "physiotherapie-douleur-chronique",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -914,7 +914,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur ligamentaire",
+            "name": "Physiothérapie pour la douleur ligamentaire",
             "slug": "physiotherapie-douleur-ligamentaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -925,7 +925,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur musculaire",
+            "name": "Physiothérapie pour la douleur musculaire",
             "slug": "physiotherapie-douleur-musculaire",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -936,7 +936,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Physioth\u00e9rapie pour la douleur neurale : techniques sp\u00e9cialis\u00e9es pour traiter la douleur nerveuse",
+            "name": "Physiothérapie pour la douleur neurale : techniques spécialisées pour traiter la douleur nerveuse",
             "slug": "physiotherapie-douleur-neurale",
             "collection": "Guide Complet",
             "collection_id": "67c0ab311dc962020babaa51",
@@ -947,7 +947,7 @@
             "publish_time": "09:00"
         },
         {
-            "name": "Physioth\u00e9rapie vestibulaire",
+            "name": "Physiothérapie vestibulaire",
             "slug": "physiotherapie-vestibulaire",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -958,7 +958,7 @@
             "publish_time": "18:00"
         },
         {
-            "name": "Protocole de repos structur\u00e9",
+            "name": "Protocole de repos structuré",
             "slug": "protocole-repos-structure-4-phases",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1023,7 +1023,7 @@
             "notes": "NEW - Phase 9 Anatomy Cluster"
         },
         {
-            "name": "Anatomie de l'\u00e9paule",
+            "name": "Anatomie de l'épaule",
             "slug": "anatomie-epaule",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1045,7 +1045,7 @@
             "notes": "NEW - Phase 9 Anatomy Cluster"
         },
         {
-            "name": "Anatomie de la colonne vert\u00e9brale",
+            "name": "Anatomie de la colonne vertébrale",
             "slug": "anatomie-colonne-vertebrale",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1056,7 +1056,7 @@
             "notes": "NEW - Phase 9 Anatomy Cluster"
         },
         {
-            "name": "Th\u00e9rapie manuelle en physioth\u00e9rapie",
+            "name": "Thérapie manuelle en physiothérapie",
             "slug": "therapie-manuelle-physiotherapie",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1078,7 +1078,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Rel\u00e2chement myofascial",
+            "name": "Relâchement myofascial",
             "slug": "relachement-myofascial",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1089,7 +1089,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Th\u00e9rapie par ondes de choc",
+            "name": "Thérapie par ondes de choc",
             "slug": "therapie-ondes-de-choc",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1100,7 +1100,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Taping th\u00e9rapeutique",
+            "name": "Taping thérapeutique",
             "slug": "taping-therapeutique",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1111,7 +1111,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Exercices th\u00e9rapeutiques",
+            "name": "Exercices thérapeutiques",
             "slug": "exercices-therapeutiques-guide-complet",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1122,7 +1122,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Progression d'exercices en r\u00e9adaptation",
+            "name": "Progression d'exercices en réadaptation",
             "slug": "progression-exercices-readaptation",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1133,7 +1133,7 @@
             "notes": "NEW - Phase 10 Treatment Modalities"
         },
         {
-            "name": "Modalit\u00e9s \u00e9lectroth\u00e9rapeutiques",
+            "name": "Modalités électrothérapeutiques",
             "slug": "modalites-electrotherapeutiques",
             "collection": "Ressources",
             "collection_id": "67165e64411a14330fa9c958",
@@ -1142,6 +1142,56 @@
             "published": false,
             "publish_time": "18:00",
             "notes": "NEW - Phase 10 Treatment Modalities"
+        },
+        {
+            "name": "Douleur aiguë : Guide complet",
+            "slug": "douleur-aigue-guide-complet",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "69629a59fb04a09ea619c539",
+            "publish_date": "2026-01-20",
+            "published": false,
+            "notes": "Phase 7 - Pain Types"
+        },
+        {
+            "name": "Physiothérapie pour la douleur aiguë",
+            "slug": "physiotherapie-douleur-aigue",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "69629a5958c06e32ff40806c",
+            "publish_date": "2026-01-21",
+            "published": false,
+            "notes": "Phase 7 - Pain Types"
+        },
+        {
+            "name": "Physiothérapie pour la douleur chronique",
+            "slug": "physiotherapie-douleur-chronique",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "69629a599a9848c272719ae5",
+            "publish_date": "2026-01-22",
+            "published": false,
+            "notes": "Phase 7 - Pain Types"
+        },
+        {
+            "name": "Douleur neurale : Guide complet",
+            "slug": "douleur-neurale-guide-complet",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "69629a5a9a9848c272719b15",
+            "publish_date": "2026-01-23",
+            "published": false,
+            "notes": "Phase 7 - Pain Types"
+        },
+        {
+            "name": "Physiothérapie pour la douleur neurale",
+            "slug": "physiotherapie-douleur-neurale",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "69629a5a0cc1c34e1fca2afd",
+            "publish_date": "2026-01-24",
+            "published": false,
+            "notes": "Phase 7 - Pain Types"
         }
     ]
 }
