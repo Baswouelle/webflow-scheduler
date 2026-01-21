@@ -1478,6 +1478,72 @@
             "published": false,
             "publish_time": "09:00",
             "notes": "Phase 11 - Tissue Types (Educational)"
+        },
+        {
+            "name": "Physiothérapie pour torticolis",
+            "slug": "physiotherapie-pour-torticolis",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed312e1daad53960c8e8",
+            "publish_date": "2026-04-07",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
+        },
+        {
+            "name": "Physiothérapie pour whiplash",
+            "slug": "physiotherapie-pour-whiplash",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed317cb287d3a0eaf218",
+            "publish_date": "2026-04-10",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
+        },
+        {
+            "name": "Physiothérapie pour sténose spinale",
+            "slug": "physiotherapie-pour-stenose-spinale",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed3262da47a23dc62868",
+            "publish_date": "2026-04-14",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
+        },
+        {
+            "name": "Physiothérapie pour capsulite",
+            "slug": "physiotherapie-pour-capsulite",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed3335930e4b38721b04",
+            "publish_date": "2026-04-17",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
+        },
+        {
+            "name": "Physiothérapie pour tendinite calcifiante",
+            "slug": "physiotherapie-pour-tendinite-calcifiante",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed33aeb9b144bfe964cb",
+            "publish_date": "2026-04-21",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
+        },
+        {
+            "name": "Physiothérapie pour hypermobilité articulaire",
+            "slug": "physiotherapie-pour-hypermobilite-articulaire",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "6970ed34774dbd943bcf9c86",
+            "publish_date": "2026-04-24",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase 13 - Physiotherapy Treatment Guides"
         }
     ]
 }
