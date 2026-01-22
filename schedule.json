@@ -1,7 +1,7 @@
 {
     "site_id": "670e84ccd653d18590687563",
-    "last_updated": "2026-01-21",
-    "notes": "Added 11 Approches Thérapeutiques Guide Complet articles scheduled Jun 11-22, 2026",
+    "last_updated": "2026-01-22",
+    "notes": "Added 9 Pain Type Cluster articles scheduled Jun 24 - Jul 2, 2026",
     "articles": [
         {
             "name": "Douleur antérieure au genou (Power Hub)",
@@ -1940,6 +1940,105 @@
             "published": false,
             "publish_time": "09:00",
             "notes": "Phase Approches Thérapeutiques Guide Complet"
+        },
+        {
+            "name": "Douleur reliée au cancer : comprendre et soulager",
+            "slug": "douleur-reliee-au-cancer",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237be40d8740dc06397eb",
+            "publish_date": "2026-06-24",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase Pain Types - Cancer Cluster Hub"
+        },
+        {
+            "name": "Physiothérapie pour douleur liée au cancer : approches et bienfaits",
+            "slug": "physiotherapie-douleur-cancer",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237bfe633e637fe0732e4",
+            "publish_date": "2026-06-24",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase Pain Types - Cancer Cluster Supporting"
+        },
+        {
+            "name": "Douleur psychogénique et somatique : comprendre les liens corps-esprit",
+            "slug": "douleur-psychogenique-ou-somatique",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c07c3201bd18ef4538",
+            "publish_date": "2026-06-26",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase Pain Types - Psychogenic Cluster Hub"
+        },
+        {
+            "name": "Physiothérapie pour douleur psychogénique : approche intégrative",
+            "slug": "physiotherapie-douleur-psychogenique",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c17c3201bd18ef45a1",
+            "publish_date": "2026-06-26",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase Pain Types - Psychogenic Cluster Supporting"
+        },
+        {
+            "name": "Troubles du développement chez l'enfant : guide complet pour les parents",
+            "slug": "trouble-developpement-enfant",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c123548ead9de45f29",
+            "publish_date": "2026-06-28",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase Pain Types - Pediatric Cluster Hub"
+        },
+        {
+            "name": "Physiothérapie pédiatrique : tout ce que les parents doivent savoir",
+            "slug": "physiotherapie-pediatrique",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c2b9cc00d3638e6886",
+            "publish_date": "2026-06-28",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase Pain Types - Pediatric Cluster Supporting"
+        },
+        {
+            "name": "Douleur nociceptive : comprendre la douleur tissulaire",
+            "slug": "douleur-nociceptive",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c38851e79c9e62ef26",
+            "publish_date": "2026-06-30",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase Pain Types - Nociceptive Cluster Hub"
+        },
+        {
+            "name": "Physiothérapie pour douleur nociceptive : traitement et récupération",
+            "slug": "physiotherapie-douleur-nociceptive",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c4e633e637fe07372a",
+            "publish_date": "2026-06-30",
+            "published": false,
+            "publish_time": "18:00",
+            "notes": "Phase Pain Types - Nociceptive Cluster Supporting"
+        },
+        {
+            "name": "Physiothérapie pour douleur inflammatoire : approches et techniques",
+            "slug": "physiotherapie-douleur-inflammatoire",
+            "collection": "Guide Complet",
+            "collection_id": "67c0ab311dc962020babaa51",
+            "item_id": "697237c5f0580f2a2ee7b0e6",
+            "publish_date": "2026-07-02",
+            "published": false,
+            "publish_time": "09:00",
+            "notes": "Phase Pain Types - Inflammatory Cluster Supporting"
         }
     ]
 }
