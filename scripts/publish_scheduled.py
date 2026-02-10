@@ -181,10 +181,10 @@ def main():
             else:
                 print(f"  WARNING: Could not publish site: {result.get('error')}")
 
-        # Update schedule to mark as published
-        # Note: This only works locally. For GitHub Actions, we'd need to commit the change.
-        # For now, we just log it.
+        # Update schedule.json to mark articles as published
+        update_schedule_status(schedule, all_published_ids)
         print(f"\nPublished {len(all_published_ids)} articles successfully!")
+        print("Updated schedule.json with published status.")
 
     if errors:
         print(f"\nErrors encountered: {len(errors)}")
