@@ -768,9 +768,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614905ad9f1939e093556f",
       "publish_date": "2026-02-11",
-      "published": false,
+      "published": true,
       "notes": "NEW - Phase 6 Supporting Regions",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-02-11T14:45:22.370844"
     },
     {
       "name": "Physiothérapie pour la douleur au mollet",
