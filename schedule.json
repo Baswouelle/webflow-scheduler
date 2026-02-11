@@ -780,9 +780,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6961490637581c1020efe660",
       "publish_date": "2026-02-11",
-      "published": false,
+      "published": true,
       "notes": "NEW - Phase 6 Supporting Regions",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-11T23:32:58.206637"
     },
     {
       "name": "Douleur au plancher pelvien : Guide complet",
