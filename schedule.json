@@ -815,9 +815,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553ba7d30d911e0ea2f01",
       "publish_date": "2026-02-12",
-      "published": false,
+      "published": true,
       "notes": "NEW - Phase 5 Pain Education",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-12T23:30:23.601709"
     },
     {
       "name": "Douleur fonctionnelle (nociplastique)",
