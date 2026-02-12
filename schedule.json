@@ -803,9 +803,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69603007b3141c8688a09321",
       "publish_date": "2026-02-12",
-      "published": false,
+      "published": true,
       "notes": "NEW - Cluster Pelvic Floor",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-02-12T14:40:48.276549"
     },
     {
       "name": "Douleur aiguë vs chronique",
