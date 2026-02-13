@@ -827,8 +827,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bd43404c92d3116510",
       "publish_date": "2026-02-13",
-      "published": false,
-      "publish_time": "09:00"
+      "published": true,
+      "publish_time": "09:00",
+      "published_at": "2026-02-13T14:33:33.071692"
     },
     {
       "name": "Douleur inflammatoire",
