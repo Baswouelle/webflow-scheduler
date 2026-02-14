@@ -858,8 +858,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bc08db1bd9bfa6f6e3",
       "publish_date": "2026-02-14",
-      "published": false,
-      "publish_time": "18:00"
+      "published": true,
+      "publish_time": "18:00",
+      "published_at": "2026-02-14T23:25:41.961534"
     },
     {
       "name": "Psychologie de la douleur",
