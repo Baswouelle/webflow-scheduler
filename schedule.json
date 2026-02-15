@@ -880,8 +880,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553be822adaf40d2c4692",
       "publish_date": "2026-02-15",
-      "published": false,
-      "publish_time": "18:00"
+      "published": true,
+      "publish_time": "18:00",
+      "published_at": "2026-02-15T23:27:45.942330"
     },
     {
       "name": "Douleur aiguë : Guide complet pour comprendre et soulager",
