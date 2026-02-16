@@ -903,9 +903,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a56010f846b473faab1",
       "publish_date": "2026-02-16",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-16T23:30:09.588728"
     },
     {
       "name": "Douleur ligamentaire : Guide complet",
