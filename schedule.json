@@ -927,9 +927,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a573ab21e7af264b6a9",
       "publish_date": "2026-02-17",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-17T23:30:11.825261"
     },
     {
       "name": "Douleur neurale : Guide complet pour comprendre et gérer",
