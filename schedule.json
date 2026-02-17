@@ -915,9 +915,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5879b3bbddeb5642c5",
       "publish_date": "2026-02-17",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-02-17T14:38:18.439552"
     },
     {
       "name": "Douleur musculaire : Guide complet",
