@@ -951,9 +951,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5958c06e32ff40806c",
       "publish_date": "2026-02-18",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-18T23:31:00.697966"
     },
     {
       "name": "Physiothérapie pour la douleur articulaire : comment la physiothérapie traite vos articulations",
@@ -1227,7 +1228,7 @@
       "publish_date": "2026-01-21",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-01-21T10:00:00 (retroactive fix)"
+      "published_at": "2026-02-18T23:31:00.698007"
     },
     {
       "name": "Physiothérapie pour la douleur chronique",
