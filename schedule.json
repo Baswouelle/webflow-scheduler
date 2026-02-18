@@ -939,9 +939,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5a9a9848c272719b15",
       "publish_date": "2026-02-18",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-02-18T14:37:58.404003"
     },
     {
       "name": "Physiothérapie pour la douleur aiguë : traitement des blessures",
@@ -1248,7 +1249,7 @@
       "publish_date": "2026-01-23",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-01-23T10:00:00 (retroactive fix)"
+      "published_at": "2026-02-18T14:37:58.404013"
     },
     {
       "name": "Physiothérapie pour la douleur neurale",
