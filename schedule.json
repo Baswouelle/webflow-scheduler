@@ -975,9 +975,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a599a9848c272719ae5",
       "publish_date": "2026-02-19",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-19T23:31:13.602747"
     },
     {
       "name": "Physiothérapie pour la douleur ligamentaire",
@@ -1240,7 +1241,7 @@
       "publish_date": "2026-01-22",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-01-22T10:00:00 (retroactive fix)"
+      "published_at": "2026-02-19T23:31:13.602760"
     },
     {
       "name": "Douleur neurale : Guide complet",
