@@ -999,9 +999,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a57e92e28509cb3cd9f",
       "publish_date": "2026-02-20",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-20T23:29:16.239364"
     },
     {
       "name": "Physiothérapie pour la douleur neurale : techniques spécialisées pour traiter la douleur nerveuse",
