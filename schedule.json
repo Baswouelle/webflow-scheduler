@@ -1023,9 +1023,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69447ac496b0cc30b196d754",
       "publish_date": "2026-02-21",
-      "published": false,
+      "published": true,
       "notes": "NEW - Contextual/Anatomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-21T23:25:06.864859"
     },
     {
       "name": "Protocole de repos structuré",
