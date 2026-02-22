@@ -1046,9 +1046,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694553ba6a2bd321dc35289a",
       "publish_date": "2026-02-22",
-      "published": false,
+      "published": true,
       "notes": "NEW - Other",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-02-22T23:27:35.215201"
     },
     {
       "name": "Anatomie du genou",
