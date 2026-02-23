@@ -1058,9 +1058,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e6bfccd54fa80413bd",
       "publish_date": "2026-02-23",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-02-23T14:39:07.917703"
     },
     {
       "name": "Anatomie du pied",
