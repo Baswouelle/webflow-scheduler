@@ -1070,9 +1070,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e6bfccd54fa80413e3",
       "publish_date": "2026-02-23",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-02-23T23:34:43.600182"
     },
     {
       "name": "Anatomie de la main",
