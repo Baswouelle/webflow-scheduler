@@ -1082,9 +1082,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e73f0916e62e85a480",
       "publish_date": "2026-02-24",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-02-24T14:42:45.584512"
     },
     {
       "name": "Anatomie du coude",
