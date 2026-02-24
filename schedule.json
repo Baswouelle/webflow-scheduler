@@ -1094,9 +1094,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e70d623272ee0fda97",
       "publish_date": "2026-02-24",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-02-24T23:32:48.815935"
     },
     {
       "name": "Anatomie de l'épaule",
