@@ -1206,9 +1206,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e9f3f18f75395e1c7ca63",
       "publish_date": "2026-03-05",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "NEW - Phase 10 Treatment Modalities"
+      "notes": "NEW - Phase 10 Treatment Modalities",
+      "published_at": "2026-03-05T14:36:59.258049"
     },
     {
       "name": "Modalités électrothérapeutiques",
