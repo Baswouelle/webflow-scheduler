@@ -1372,9 +1372,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0ecf00b9815fe247ded",
       "publish_date": "2026-03-10",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 12 - Types Specialty (educational)"
+      "notes": "Phase 12 - Types Specialty (educational)",
+      "published_at": "2026-03-10T14:38:34.466727"
     },
     {
       "name": "Physiothérapie respiratoire : Conditions pulmonaires",
@@ -1486,9 +1487,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd73688d6d0b802f999fd",
       "publish_date": "2026-03-10",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 11 - Tissue Types (Educational)"
+      "notes": "Phase 11 - Tissue Types (Educational)",
+      "published_at": "2026-03-10T14:38:34.466735"
     },
     {
       "name": "Comprendre les ligaments",
