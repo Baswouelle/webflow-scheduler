@@ -767,11 +767,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69614905ad9f1939e093556f",
-      "publish_date": "2026-02-11",
-      "published": true,
+      "publish_date": "2026-03-14",
+      "published": false,
       "notes": "NEW - Phase 6 Supporting Regions",
-      "publish_time": "09:00",
-      "published_at": "2026-02-11T14:45:22.370844"
+      "publish_time": "09:00"
     },
     {
       "name": "Physiothérapie pour la douleur au mollet",
@@ -779,11 +778,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6961490637581c1020efe660",
-      "publish_date": "2026-02-11",
-      "published": true,
+      "publish_date": "2026-03-14",
+      "published": false,
       "notes": "NEW - Phase 6 Supporting Regions",
-      "publish_time": "18:00",
-      "published_at": "2026-02-11T23:32:58.206637"
+      "publish_time": "18:00"
     },
     {
       "name": "Douleur au plancher pelvien : Guide complet",
@@ -791,10 +789,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696dbbb55dd80f1cadd45e08",
-      "publish_date": "2026-02-11",
+      "publish_date": "2026-03-15",
       "published": false,
       "notes": "NEW - Cluster Pelvic Floor (Power Hub)",
-      "publish_time": "12:00"
+      "publish_time": "09:00"
     },
     {
       "name": "Physiothérapie du plancher pelvien",
@@ -802,11 +800,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69603007b3141c8688a09321",
-      "publish_date": "2026-02-12",
-      "published": true,
+      "publish_date": "2026-03-15",
+      "published": false,
       "notes": "NEW - Cluster Pelvic Floor",
-      "publish_time": "09:00",
-      "published_at": "2026-02-12T14:40:48.276549"
+      "publish_time": "18:00"
     },
     {
       "name": "Douleur aiguë vs chronique",
@@ -814,11 +811,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553ba7d30d911e0ea2f01",
-      "publish_date": "2026-02-12",
-      "published": true,
+      "publish_date": "2026-03-16",
+      "published": false,
       "notes": "NEW - Phase 5 Pain Education",
-      "publish_time": "18:00",
-      "published_at": "2026-02-12T23:30:23.601709"
+      "publish_time": "09:00"
     },
     {
       "name": "Douleur fonctionnelle (nociplastique)",
@@ -826,18 +822,7 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bd43404c92d3116510",
-      "publish_date": "2026-02-13",
-      "published": true,
-      "publish_time": "09:00",
-      "published_at": "2026-02-13T14:33:33.071692"
-    },
-    {
-      "name": "Douleur inflammatoire",
-      "slug": "douleur-inflammatoire",
-      "collection": "Ressources",
-      "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bd43404c92d31164e1",
-      "publish_date": "2026-02-13",
+      "publish_date": "2026-03-16",
       "published": false,
       "publish_time": "18:00"
     },
@@ -846,8 +831,8 @@
       "slug": "douleur-neuropathique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "694553bc1d54db0e95caec14",
-      "publish_date": "2026-02-14",
+      "item_id": "69b49b136b187520d6acfddb",
+      "publish_date": "2026-04-09",
       "published": false,
       "publish_time": "09:00"
     },
@@ -857,10 +842,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bc08db1bd9bfa6f6e3",
-      "publish_date": "2026-02-14",
-      "published": true,
-      "publish_time": "18:00",
-      "published_at": "2026-02-14T23:25:41.961534"
+      "publish_date": "2026-03-17",
+      "published": false,
+      "publish_time": "09:00"
     },
     {
       "name": "Psychologie de la douleur",
@@ -868,10 +852,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bc6552884f16b57500",
-      "publish_date": "2026-02-15",
-      "published": true,
-      "publish_time": "09:00",
-      "published_at": "2026-02-15T14:17:11.808442"
+      "publish_date": "2026-03-17",
+      "published": false,
+      "publish_time": "18:00"
     },
     {
       "name": "Stratégies de gestion de la douleur",
@@ -879,10 +862,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553be822adaf40d2c4692",
-      "publish_date": "2026-02-15",
-      "published": true,
-      "publish_time": "18:00",
-      "published_at": "2026-02-15T23:27:45.942330"
+      "publish_date": "2026-03-18",
+      "published": false,
+      "publish_time": "09:00"
     },
     {
       "name": "Douleur aiguë : Guide complet pour comprendre et soulager",
@@ -890,11 +872,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a59fb04a09ea619c539",
-      "publish_date": "2026-02-16",
-      "published": true,
+      "publish_date": "2026-03-18",
+      "published": false,
       "notes": "NEW - Phase 7 Pain Types",
-      "publish_time": "09:00",
-      "published_at": "2026-02-16T14:35:02.317054"
+      "publish_time": "18:00"
     },
     {
       "name": "Douleur articulaire : Guide complet pour comprendre et soulager vos articulations",
@@ -902,11 +883,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a56010f846b473faab1",
-      "publish_date": "2026-02-16",
-      "published": true,
+      "publish_date": "2026-03-19",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-16T23:30:09.588728"
+      "publish_time": "09:00"
     },
     {
       "name": "Douleur ligamentaire : Guide complet",
@@ -914,11 +894,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5879b3bbddeb5642c5",
-      "publish_date": "2026-02-17",
-      "published": true,
+      "publish_date": "2026-03-19",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00",
-      "published_at": "2026-02-17T14:38:18.439552"
+      "publish_time": "18:00"
     },
     {
       "name": "Douleur musculaire : Guide complet",
@@ -926,11 +905,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a573ab21e7af264b6a9",
-      "publish_date": "2026-02-17",
-      "published": true,
+      "publish_date": "2026-03-20",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-17T23:30:11.825261"
+      "publish_time": "09:00"
     },
     {
       "name": "Douleur neurale : Guide complet pour comprendre et gérer",
@@ -938,11 +916,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5a9a9848c272719b15",
-      "publish_date": "2026-02-18",
-      "published": true,
+      "publish_date": "2026-03-20",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00",
-      "published_at": "2026-02-18T14:37:58.404003"
+      "publish_time": "18:00"
     },
     {
       "name": "Physiothérapie pour la douleur aiguë : traitement des blessures",
@@ -950,11 +927,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5958c06e32ff40806c",
-      "publish_date": "2026-02-18",
-      "published": true,
+      "publish_date": "2026-03-21",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-18T23:31:00.697966"
+      "publish_time": "09:00"
     },
     {
       "name": "Physiothérapie pour la douleur articulaire : comment la physiothérapie traite vos articulations",
@@ -962,11 +938,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a57201a3c75300496e2",
-      "publish_date": "2026-02-19",
-      "published": true,
+      "publish_date": "2026-03-21",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00",
-      "published_at": "2026-02-19T14:40:06.632309"
+      "publish_time": "18:00"
     },
     {
       "name": "Physiothérapie pour la douleur chronique : approche globale",
@@ -974,11 +949,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a599a9848c272719ae5",
-      "publish_date": "2026-02-19",
-      "published": true,
+      "publish_date": "2026-03-22",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-19T23:31:13.602747"
+      "publish_time": "09:00"
     },
     {
       "name": "Physiothérapie pour la douleur ligamentaire",
@@ -986,11 +960,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a58010f846b473fabbd",
-      "publish_date": "2026-02-20",
-      "published": true,
+      "publish_date": "2026-03-22",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00",
-      "published_at": "2026-02-20T14:31:50.979728"
+      "publish_time": "18:00"
     },
     {
       "name": "Physiothérapie pour la douleur musculaire",
@@ -998,11 +971,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a57e92e28509cb3cd9f",
-      "publish_date": "2026-02-20",
-      "published": true,
+      "publish_date": "2026-03-23",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-20T23:29:16.239364"
+      "publish_time": "09:00"
     },
     {
       "name": "Physiothérapie pour la douleur neurale : techniques spécialisées pour traiter la douleur nerveuse",
@@ -1010,11 +982,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5a0cc1c34e1fca2afd",
-      "publish_date": "2026-02-21",
-      "published": true,
+      "publish_date": "2026-03-23",
+      "published": false,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "09:00",
-      "published_at": "2026-02-21T14:15:25.728167"
+      "publish_time": "18:00"
     },
     {
       "name": "Physiothérapie vestibulaire",
@@ -1022,11 +993,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69447ac496b0cc30b196d754",
-      "publish_date": "2026-02-21",
-      "published": true,
+      "publish_date": "2026-03-24",
+      "published": false,
       "notes": "NEW - Contextual/Anatomy",
-      "publish_time": "18:00",
-      "published_at": "2026-02-21T23:25:06.864859"
+      "publish_time": "09:00"
     },
     {
       "name": "Protocole de repos structuré",
@@ -1034,10 +1004,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6944003a5238df2f7bcce093",
-      "publish_date": "2026-02-22",
-      "published": true,
-      "publish_time": "09:00",
-      "published_at": "2026-02-22T14:16:27.271908"
+      "publish_date": "2026-03-24",
+      "published": false,
+      "publish_time": "18:00"
     },
     {
       "name": "Comprendre la douleur chronique (Power Hub)",
@@ -1045,11 +1014,10 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694553ba6a2bd321dc35289a",
-      "publish_date": "2026-02-22",
-      "published": true,
+      "publish_date": "2026-03-25",
+      "published": false,
       "notes": "NEW - Other",
-      "publish_time": "18:00",
-      "published_at": "2026-02-22T23:27:35.215201"
+      "publish_time": "09:00"
     },
     {
       "name": "Anatomie du genou",
@@ -1057,11 +1025,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e6bfccd54fa80413bd",
-      "publish_date": "2026-02-23",
-      "published": true,
-      "publish_time": "09:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster",
-      "published_at": "2026-02-23T14:39:07.917703"
+      "publish_date": "2026-03-25",
+      "published": false,
+      "publish_time": "18:00",
+      "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
       "name": "Anatomie du pied",
@@ -1069,11 +1036,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e6bfccd54fa80413e3",
-      "publish_date": "2026-02-23",
-      "published": true,
-      "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster",
-      "published_at": "2026-02-23T23:34:43.600182"
+      "publish_date": "2026-03-26",
+      "published": false,
+      "publish_time": "09:00",
+      "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
       "name": "Anatomie de la main",
@@ -1081,11 +1047,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e73f0916e62e85a480",
-      "publish_date": "2026-02-24",
-      "published": true,
-      "publish_time": "09:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster",
-      "published_at": "2026-02-24T14:42:45.584512"
+      "publish_date": "2026-03-26",
+      "published": false,
+      "publish_time": "18:00",
+      "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
       "name": "Anatomie du coude",
@@ -1093,21 +1058,20 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e70d623272ee0fda97",
-      "publish_date": "2026-02-24",
-      "published": true,
-      "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster",
-      "published_at": "2026-02-24T23:32:48.815935"
+      "publish_date": "2026-03-27",
+      "published": false,
+      "publish_time": "09:00",
+      "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
       "name": "Anatomie de l'épaule",
       "slug": "anatomie-epaule",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e82e7a311fd647b57a630",
-      "publish_date": "2026-02-25",
+      "item_id": "694a6f75a4fc2e4fca3477b4",
+      "publish_date": "2026-03-29",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
@@ -1116,19 +1080,18 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e8bfccd54fa804145d",
-      "publish_date": "2026-02-25",
-      "published": true,
+      "publish_date": "2026-03-27",
+      "published": false,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster",
-      "published_at": "2026-02-25T23:28:53.130419"
+      "notes": "NEW - Phase 9 Anatomy Cluster"
     },
     {
       "name": "Anatomie de la colonne vertébrale",
       "slug": "anatomie-colonne-vertebrale",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e82e8107ed3a3966e4ae8",
-      "publish_date": "2026-02-26",
+      "item_id": "693b75a3583d155277351c91",
+      "publish_date": "2026-03-30",
       "published": false,
       "publish_time": "09:00",
       "notes": "NEW - Phase 9 Anatomy Cluster"
@@ -1138,10 +1101,10 @@
       "slug": "therapie-manuelle-physiotherapie",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3cfd6749359d0eed92",
-      "publish_date": "2026-03-02",
+      "item_id": "69b49b146b187520d6acffbd",
+      "publish_date": "2026-04-09",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
     },
     {
@@ -1149,8 +1112,8 @@
       "slug": "mobilisation-articulaire",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3c7ac223ed547c3387",
-      "publish_date": "2026-03-02",
+      "item_id": "69b49b16a343006595e4b313",
+      "publish_date": "2026-04-10",
       "published": false,
       "publish_time": "18:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
@@ -1160,8 +1123,8 @@
       "slug": "relachement-myofascial",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3d2fe327dd8cc000ac",
-      "publish_date": "2026-03-03",
+      "item_id": "69b49b1809e95f8255536ee3",
+      "publish_date": "2026-04-11",
       "published": false,
       "publish_time": "09:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
@@ -1171,8 +1134,8 @@
       "slug": "therapie-ondes-de-choc",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3d83af0fd75e17db99",
-      "publish_date": "2026-03-03",
+      "item_id": "69b49b1b05b4420783ad0daa",
+      "publish_date": "2026-04-11",
       "published": false,
       "publish_time": "18:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
@@ -1182,8 +1145,8 @@
       "slug": "taping-therapeutique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3e07fa8f7ca4c93505",
-      "publish_date": "2026-03-04",
+      "item_id": "69b49b1d51d7b17bc1c4e8ff",
+      "publish_date": "2026-04-12",
       "published": false,
       "publish_time": "09:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
@@ -1193,8 +1156,8 @@
       "slug": "exercices-therapeutiques-guide-complet",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3e07fa8f7ca4c9352b",
-      "publish_date": "2026-03-04",
+      "item_id": "69b49b1ff834121cd9349a4b",
+      "publish_date": "2026-04-12",
       "published": false,
       "publish_time": "18:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
@@ -1205,21 +1168,20 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e9f3f18f75395e1c7ca63",
-      "publish_date": "2026-03-05",
-      "published": true,
+      "publish_date": "2026-03-28",
+      "published": false,
       "publish_time": "09:00",
-      "notes": "NEW - Phase 10 Treatment Modalities",
-      "published_at": "2026-03-05T14:36:59.258049"
+      "notes": "NEW - Phase 10 Treatment Modalities"
     },
     {
       "name": "Modalités électrothérapeutiques",
       "slug": "modalites-electrotherapeutiques",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696e9f3f4888ef2b3589490a",
-      "publish_date": "2026-03-05",
+      "item_id": "69b49b21b8e346b8af0cc481",
+      "publish_date": "2026-04-13",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "NEW - Phase 10 Treatment Modalities"
     },
     {
@@ -1231,7 +1193,7 @@
       "publish_date": "2026-01-20",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-02-16T14:35:02.317067"
+      "published_at": "2026-01-20T10:00:00 (retroactive fix)"
     },
     {
       "name": "Physiothérapie pour la douleur aiguë",
@@ -1242,7 +1204,7 @@
       "publish_date": "2026-01-21",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-02-18T23:31:00.698007"
+      "published_at": "2026-01-21T10:00:00 (retroactive fix)"
     },
     {
       "name": "Physiothérapie pour la douleur chronique",
@@ -1253,7 +1215,7 @@
       "publish_date": "2026-01-22",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-02-19T23:31:13.602760"
+      "published_at": "2026-01-22T10:00:00 (retroactive fix)"
     },
     {
       "name": "Douleur neurale : Guide complet",
@@ -1264,7 +1226,7 @@
       "publish_date": "2026-01-23",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-02-18T14:37:58.404013"
+      "published_at": "2026-01-23T10:00:00 (retroactive fix)"
     },
     {
       "name": "Physiothérapie pour la douleur neurale",
@@ -1275,17 +1237,17 @@
       "publish_date": "2026-01-24",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-02-21T14:15:25.728180"
+      "published_at": "2026-01-24T10:00:00 (retroactive fix)"
     },
     {
       "name": "Types de physiothérapie : Les 8 spécialités expliquées",
       "slug": "types-de-physiotherapie-specialites",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0e75675cba23e91a405",
-      "publish_date": "2026-03-06",
+      "item_id": "696fb0b1445cc7cf93e36aa5",
+      "publish_date": "2026-03-30",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "Phase 12 - Types Hub (foundational)"
     },
     {
@@ -1293,8 +1255,8 @@
       "slug": "qui-traitons-nous-populations",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0e75675cba23e91a463",
-      "publish_date": "2026-03-06",
+      "item_id": "696fb0b199cde6f0a4d09bc9",
+      "publish_date": "2026-03-31",
       "published": false,
       "publish_time": "18:00",
       "notes": "Phase 11 - Populations Hub (foundational)"
@@ -1304,8 +1266,8 @@
       "slug": "physiotherapie-musculosquelettique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0e828b58bfea7ee6a8f",
-      "publish_date": "2026-03-07",
+      "item_id": "696fb0b29491872ba486ade8",
+      "publish_date": "2026-04-01",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 12 - Types Specialty"
@@ -1315,8 +1277,8 @@
       "slug": "physiotherapie-sportive",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0e8445cc7cf93e3867f",
-      "publish_date": "2026-03-07",
+      "item_id": "696fb0b28e48b5366357f564",
+      "publish_date": "2026-04-01",
       "published": false,
       "publish_time": "18:00",
       "notes": "Phase 12 - Types Specialty"
@@ -1326,8 +1288,8 @@
       "slug": "physiotherapie-neurologique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0e920a85bfc02a4fc39",
-      "publish_date": "2026-03-08",
+      "item_id": "696fb0b3f00b9815fe246bc7",
+      "publish_date": "2026-04-02",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 12 - Types Specialty"
@@ -1337,8 +1299,8 @@
       "slug": "physiotherapie-sante-des-femmes",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0ea2a8ad49e3cd3ab15",
-      "publish_date": "2026-03-08",
+      "item_id": "696fb0b3f00b9815fe246c10",
+      "publish_date": "2026-04-02",
       "published": false,
       "publish_time": "18:00",
       "notes": "Phase 12 - Types Specialty"
@@ -1348,10 +1310,10 @@
       "slug": "physiotherapie-geriatrique-specialite",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0ebfaa043bb2f572707",
-      "publish_date": "2026-03-09",
+      "item_id": "696fb0b4c20387df72799e32",
+      "publish_date": "2026-04-03",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "Phase 12 - Types Specialty"
     },
     {
@@ -1359,10 +1321,10 @@
       "slug": "physiotherapie-pediatrique-specialite",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0eb82656a79ca34b4cb",
-      "publish_date": "2026-03-09",
+      "item_id": "696fb0b4445cc7cf93e36c69",
+      "publish_date": "2026-04-04",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase 12 - Types Specialty"
     },
     {
@@ -1370,22 +1332,21 @@
       "slug": "physiotherapie-cardiovasculaire",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0ecf00b9815fe247ded",
-      "publish_date": "2026-03-10",
-      "published": true,
-      "publish_time": "09:00",
-      "notes": "Phase 12 - Types Specialty (educational)",
-      "published_at": "2026-03-10T14:38:34.466727"
+      "item_id": "696fb0b5e1704e3df725757b",
+      "publish_date": "2026-04-04",
+      "published": false,
+      "publish_time": "18:00",
+      "notes": "Phase 12 - Types Specialty (educational)"
     },
     {
       "name": "Physiothérapie respiratoire : Conditions pulmonaires",
       "slug": "physiotherapie-respiratoire",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0edf135945db42eeecf",
-      "publish_date": "2026-03-10",
+      "item_id": "696fb0b6aa68843c8092183e",
+      "publish_date": "2026-04-05",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase 12 - Types Specialty (educational)"
     },
     {
@@ -1393,10 +1354,10 @@
       "slug": "physiotherapie-geriatrique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0edfaa043bb2f5727c6",
-      "publish_date": "2026-03-11",
+      "item_id": "696fb0b6e1704e3df7257667",
+      "publish_date": "2026-04-05",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "Phase 11 - Population Article"
     },
     {
@@ -1404,10 +1365,10 @@
       "slug": "physiotherapie-pediatrique",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0ee28b58bfea7ee6df1",
-      "publish_date": "2026-03-11",
+      "item_id": "696fb0b7f00b9815fe246e7f",
+      "publish_date": "2026-04-06",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase 11 - Population Article"
     },
     {
@@ -1415,10 +1376,10 @@
       "slug": "physiotherapie-prenatale",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0eebcd8401eb81220ef",
-      "publish_date": "2026-03-12",
+      "item_id": "696fb0b799cde6f0a4d09ec0",
+      "publish_date": "2026-04-06",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "18:00",
       "notes": "Phase 11 - Population Article"
     },
     {
@@ -1426,8 +1387,8 @@
       "slug": "physiotherapie-postnatale",
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
-      "item_id": "696fb0ef5675cba23e91a9fc",
-      "publish_date": "2026-03-12",
+      "item_id": "696fb0b820a85bfc02a4e387",
+      "publish_date": "2026-04-07",
       "published": false,
       "publish_time": "18:00",
       "notes": "Phase 11 - Population Article"
@@ -1486,11 +1447,10 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd73688d6d0b802f999fd",
-      "publish_date": "2026-03-10",
-      "published": true,
-      "publish_time": "09:00",
-      "notes": "Phase 11 - Tissue Types (Educational)",
-      "published_at": "2026-03-10T14:38:34.466735"
+      "publish_date": "2026-03-28",
+      "published": false,
+      "publish_time": "18:00",
+      "notes": "Phase 11 - Tissue Types (Educational)"
     },
     {
       "name": "Comprendre les ligaments",
@@ -1498,7 +1458,7 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd4f44fc788422b19b7ac",
-      "publish_date": "2026-03-13",
+      "publish_date": "2026-03-29",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 11 - Tissue Types (Educational)"
@@ -2091,10 +2051,10 @@
       "slug": "physiotherapie-pediatrique",
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
-      "item_id": "697237c2b9cc00d3638e6886",
-      "publish_date": "2026-06-28",
+      "item_id": "696fb0b7f00b9815fe246e7f",
+      "publish_date": "2026-04-08",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Pain Types - Pediatric Cluster Supporting"
     },
     {
