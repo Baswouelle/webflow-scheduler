@@ -792,9 +792,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696dbbb55dd80f1cadd45e08",
       "publish_date": "2026-03-15",
-      "published": false,
+      "published": true,
       "notes": "NEW - Cluster Pelvic Floor (Power Hub)",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-03-15T14:20:04.100056"
     },
     {
       "name": "Physiothérapie du plancher pelvien",
