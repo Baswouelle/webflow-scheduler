@@ -828,8 +828,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bd43404c92d3116510",
       "publish_date": "2026-03-16",
-      "published": false,
-      "publish_time": "18:00"
+      "published": true,
+      "publish_time": "18:00",
+      "published_at": "2026-03-16T23:32:46.549856"
     },
     {
       "name": "Douleur neuropathique",
