@@ -860,8 +860,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694553bc6552884f16b57500",
       "publish_date": "2026-03-17",
-      "published": false,
-      "publish_time": "18:00"
+      "published": true,
+      "publish_time": "18:00",
+      "published_at": "2026-03-17T23:33:39.471557"
     },
     {
       "name": "Stratégies de gestion de la douleur",
