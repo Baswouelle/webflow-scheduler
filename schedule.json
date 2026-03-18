@@ -882,9 +882,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a59fb04a09ea619c539",
       "publish_date": "2026-03-18",
-      "published": false,
+      "published": true,
       "notes": "NEW - Phase 7 Pain Types",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-03-18T23:31:13.010322"
     },
     {
       "name": "Douleur articulaire : Guide complet pour comprendre et soulager vos articulations",
@@ -1202,7 +1203,7 @@
       "publish_date": "2026-01-20",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-01-20T10:00:00 (retroactive fix)"
+      "published_at": "2026-03-18T23:31:13.010335"
     },
     {
       "name": "Physiothérapie pour la douleur aiguë",
