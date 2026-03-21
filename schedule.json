@@ -954,9 +954,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a57201a3c75300496e2",
       "publish_date": "2026-03-21",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-03-21T23:26:38.708457"
     },
     {
       "name": "Physiothérapie pour la douleur chronique : approche globale",
