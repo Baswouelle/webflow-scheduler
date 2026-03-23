@@ -1002,9 +1002,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69629a5a0cc1c34e1fca2afd",
       "publish_date": "2026-03-23",
-      "published": false,
+      "published": true,
       "notes": "Phase 7 - Pain Types Taxonomy",
-      "publish_time": "18:00"
+      "publish_time": "18:00",
+      "published_at": "2026-03-23T23:33:22.254961"
     },
     {
       "name": "Physiothérapie vestibulaire",
@@ -1256,7 +1257,7 @@
       "publish_date": "2026-01-24",
       "published": true,
       "notes": "Phase 7 - Pain Types",
-      "published_at": "2026-01-24T10:00:00 (retroactive fix)"
+      "published_at": "2026-03-23T23:33:22.254970"
     },
     {
       "name": "Types de physiothérapie : Les 8 spécialités expliquées",
