@@ -1014,9 +1014,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69447ac496b0cc30b196d754",
       "publish_date": "2026-03-24",
-      "published": false,
+      "published": true,
       "notes": "NEW - Contextual/Anatomy",
-      "publish_time": "09:00"
+      "publish_time": "09:00",
+      "published_at": "2026-03-24T14:49:59.646099"
     },
     {
       "name": "Protocole de repos structuré",
@@ -1514,9 +1515,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd4f54fc788422b19b7ed",
       "publish_date": "2026-03-24",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 11 - Tissue Types (Educational)"
+      "notes": "Phase 11 - Tissue Types (Educational)",
+      "published_at": "2026-03-24T14:49:59.646114"
     },
     {
       "name": "Comprendre les articulations",
