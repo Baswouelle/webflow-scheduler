@@ -1026,8 +1026,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6944003a5238df2f7bcce093",
       "publish_date": "2026-03-24",
-      "published": false,
-      "publish_time": "18:00"
+      "published": true,
+      "publish_time": "18:00",
+      "published_at": "2026-03-24T23:33:36.885508"
     },
     {
       "name": "Comprendre la douleur chronique (Power Hub)",
