@@ -1108,9 +1108,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696e82e8bfccd54fa804145d",
       "publish_date": "2026-03-27",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-03-27T23:33:50.536219"
     },
     {
       "name": "Anatomie de la colonne vertébrale",
