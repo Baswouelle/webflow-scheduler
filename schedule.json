@@ -1477,9 +1477,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd73688d6d0b802f999fd",
       "publish_date": "2026-03-28",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 11 - Tissue Types (Educational)"
+      "notes": "Phase 11 - Tissue Types (Educational)",
+      "published_at": "2026-03-28T23:32:16.689476"
     },
     {
       "name": "Comprendre les ligaments",
