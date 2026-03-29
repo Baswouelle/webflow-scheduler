@@ -156,7 +156,7 @@
       "published": true,
       "notes": "NEW - Cluster 1 Shoulder",
       "publish_time": "09:00",
-      "published_at": "2026-01-15T12:22:32.244336"
+      "published_at": "2026-03-29T23:34:03.877352"
     },
     {
       "name": "Comprendre les tendons",
@@ -1097,9 +1097,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "694a6f75a4fc2e4fca3477b4",
       "publish_date": "2026-03-29",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 9 Anatomy Cluster"
+      "notes": "NEW - Phase 9 Anatomy Cluster",
+      "published_at": "2026-03-29T23:34:03.877366"
     },
     {
       "name": "Anatomie de la hanche",
