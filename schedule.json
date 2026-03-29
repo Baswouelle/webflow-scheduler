@@ -1489,9 +1489,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd4f44fc788422b19b7ac",
       "publish_date": "2026-03-29",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 11 - Tissue Types (Educational)"
+      "notes": "Phase 11 - Tissue Types (Educational)",
+      "published_at": "2026-03-29T14:23:41.932925"
     },
     {
       "name": "Comprendre les muscles",
