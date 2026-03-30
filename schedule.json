@@ -1277,9 +1277,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b1445cc7cf93e36aa5",
       "publish_date": "2026-03-30",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 12 - Types Hub (foundational)"
+      "notes": "Phase 12 - Types Hub (foundational)",
+      "published_at": "2026-03-30T23:35:33.484958"
     },
     {
       "name": "Qui traitons-nous : Physiothérapie adaptée à chaque population",
