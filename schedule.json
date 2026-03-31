@@ -1289,9 +1289,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b199cde6f0a4d09bc9",
       "publish_date": "2026-03-31",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 11 - Populations Hub (foundational)"
+      "notes": "Phase 11 - Populations Hub (foundational)",
+      "published_at": "2026-03-31T23:34:51.753899"
     },
     {
       "name": "Physiothérapie musculosquelettique : Guide complet",
