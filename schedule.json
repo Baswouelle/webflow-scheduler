@@ -1552,9 +1552,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fd736a9ec9d0e094ebf06",
       "publish_date": "2026-03-31",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 11 - Tissue Types (Educational)"
+      "notes": "Phase 11 - Tissue Types (Educational)",
+      "published_at": "2026-03-31T14:52:55.052763"
     },
     {
       "name": "Comprendre le fascia",
