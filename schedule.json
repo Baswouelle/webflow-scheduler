@@ -1313,9 +1313,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b28e48b5366357f564",
       "publish_date": "2026-04-01",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 12 - Types Specialty"
+      "notes": "Phase 12 - Types Specialty",
+      "published_at": "2026-04-01T23:36:41.722270"
     },
     {
       "name": "Physiothérapie neurologique : Réadaptation des conditions neurologiques",
