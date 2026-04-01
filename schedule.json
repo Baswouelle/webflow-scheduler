@@ -1301,9 +1301,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b29491872ba486ade8",
       "publish_date": "2026-04-01",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 12 - Types Specialty"
+      "notes": "Phase 12 - Types Specialty",
+      "published_at": "2026-04-01T14:56:03.990198"
     },
     {
       "name": "Physiothérapie sportive : Blessures et performance",
