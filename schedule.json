@@ -1325,9 +1325,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b3f00b9815fe246bc7",
       "publish_date": "2026-04-02",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 12 - Types Specialty"
+      "notes": "Phase 12 - Types Specialty",
+      "published_at": "2026-04-02T14:44:58.570659"
     },
     {
       "name": "Physiothérapie en santé des femmes : Guide complet",
