@@ -1349,9 +1349,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b4c20387df72799e32",
       "publish_date": "2026-04-03",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 12 - Types Specialty"
+      "notes": "Phase 12 - Types Specialty",
+      "published_at": "2026-04-03T23:34:42.269387"
     },
     {
       "name": "Physiothérapie pédiatrique : Enfants et ados",
