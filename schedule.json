@@ -1397,9 +1397,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b6e1704e3df7257667",
       "publish_date": "2026-04-05",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 11 - Population Article"
+      "notes": "Phase 11 - Population Article",
+      "published_at": "2026-04-05T23:34:44.648027"
     },
     {
       "name": "Physiothérapie pour enfants : Guide complet",
