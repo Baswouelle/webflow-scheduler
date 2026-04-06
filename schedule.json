@@ -1421,9 +1421,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b799cde6f0a4d09ec0",
       "publish_date": "2026-04-06",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 11 - Population Article"
+      "notes": "Phase 11 - Population Article",
+      "published_at": "2026-04-06T23:36:37.887086"
     },
     {
       "name": "Physiothérapie postnatale : Récupération après accouchement",
