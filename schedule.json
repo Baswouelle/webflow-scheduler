@@ -1409,9 +1409,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b7f00b9815fe246e7f",
       "publish_date": "2026-04-06",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 11 - Population Article"
+      "notes": "Phase 11 - Population Article",
+      "published_at": "2026-04-06T14:39:02.702798"
     },
     {
       "name": "Physiothérapie prénatale : Soins pendant la grossesse",
@@ -2103,9 +2104,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "696fb0b7f00b9815fe246e7f",
       "publish_date": "2026-04-08",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Pain Types - Pediatric Cluster Supporting"
+      "notes": "Phase Pain Types - Pediatric Cluster Supporting",
+      "published_at": "2026-04-06T14:39:02.702809"
     },
     {
       "name": "Douleur nociceptive : comprendre la douleur tissulaire",
