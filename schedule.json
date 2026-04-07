@@ -1433,9 +1433,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b820a85bfc02a4e387",
       "publish_date": "2026-04-07",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 11 - Population Article"
+      "notes": "Phase 11 - Population Article",
+      "published_at": "2026-04-07T23:37:48.320717"
     },
     {
       "name": "Bursite à l'épaule : Traitement et guérison en physio",
