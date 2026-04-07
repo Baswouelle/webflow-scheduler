@@ -1588,9 +1588,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6970ed312e1daad53960c8e8",
       "publish_date": "2026-04-07",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 13 - Physiotherapy Treatment Guides"
+      "notes": "Phase 13 - Physiotherapy Treatment Guides",
+      "published_at": "2026-04-07T14:58:42.267508"
     },
     {
       "name": "Physiothérapie pour whiplash",
