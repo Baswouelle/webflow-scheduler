@@ -839,8 +839,9 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b136b187520d6acfddb",
       "publish_date": "2026-04-09",
-      "published": false,
-      "publish_time": "09:00"
+      "published": true,
+      "publish_time": "09:00",
+      "published_at": "2026-04-09T15:12:12.308827"
     },
     {
       "name": "Neuroscience de la douleur",
