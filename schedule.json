@@ -1134,9 +1134,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b146b187520d6acffbd",
       "publish_date": "2026-04-09",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 10 Treatment Modalities"
+      "notes": "NEW - Phase 10 Treatment Modalities",
+      "published_at": "2026-04-09T23:37:41.934990"
     },
     {
       "name": "Mobilisation articulaire",
