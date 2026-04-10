@@ -1146,9 +1146,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b16a343006595e4b313",
       "publish_date": "2026-04-10",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 10 Treatment Modalities"
+      "notes": "NEW - Phase 10 Treatment Modalities",
+      "published_at": "2026-04-10T23:35:51.396485"
     },
     {
       "name": "Relâchement myofascial",
