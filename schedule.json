@@ -1194,9 +1194,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b1ff834121cd9349a4b",
       "publish_date": "2026-04-12",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "NEW - Phase 10 Treatment Modalities"
+      "notes": "NEW - Phase 10 Treatment Modalities",
+      "published_at": "2026-04-12T23:35:52.509103"
     },
     {
       "name": "Progression d'exercices en réadaptation",
