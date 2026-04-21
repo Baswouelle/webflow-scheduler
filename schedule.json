@@ -1645,9 +1645,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6970ed33aeb9b144bfe964cb",
       "publish_date": "2026-04-21",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 13 - Physiotherapy Treatment Guides"
+      "notes": "Phase 13 - Physiotherapy Treatment Guides",
+      "published_at": "2026-04-21T14:48:26.167628"
     },
     {
       "name": "Physiothérapie pour hypermobilité articulaire",
