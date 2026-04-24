@@ -1657,9 +1657,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6970ed34774dbd943bcf9c86",
       "publish_date": "2026-04-24",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 13 - Physiotherapy Treatment Guides"
+      "notes": "Phase 13 - Physiotherapy Treatment Guides",
+      "published_at": "2026-04-24T14:46:07.450986"
     },
     {
       "name": "Efficacité de la physiothérapie : données probantes",
