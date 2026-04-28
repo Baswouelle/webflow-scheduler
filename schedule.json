@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2026-01-22",
-  "notes": "Added 9 Pain Type Cluster articles scheduled Jun 24 - Jul 2, 2026",
+  "last_updated": "2026-04-28",
+  "notes": "Added 4 entries (drip-feed): toned-down ondes de choc, relâchement myofascial, renforcé thérapie manuelle, hub types-de-physiotherapie. Cadence J+2/J+4/J+6/J+8.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -2158,6 +2158,50 @@
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase Pain Types - Inflammatory Cluster Supporting"
+    },
+    {
+      "name": "Thérapie par ondes de choc : ce que la science en dit (rewrite toned-down)",
+      "slug": "therapie-ondes-de-choc",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69b49b1b05b4420783ad0daa",
+      "publish_date": "2026-04-30",
+      "published": false,
+      "publish_time": "10:00",
+      "notes": "Drip-feed J+2 - toned-down rewrite + 8 Guide Complet links"
+    },
+    {
+      "name": "Relâchement myofascial : ce que c'est, ses limites, et notre approche alternative (reframe)",
+      "slug": "relachement-myofascial",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69b49b1809e95f8255536ee3",
+      "publish_date": "2026-05-02",
+      "published": false,
+      "publish_time": "10:00",
+      "notes": "Drip-feed J+4 - reframe + anchor link to mobilisation tissus mous"
+    },
+    {
+      "name": "Thérapie manuelle en physiothérapie : techniques, science actuelle et formation FCAMPT (renforcé)",
+      "slug": "therapie-manuelle-physiotherapie",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "69b49b146b187520d6acffbd",
+      "publish_date": "2026-05-04",
+      "published": false,
+      "publish_time": "10:00",
+      "notes": "Drip-feed J+6 - hub pillar with FCAMPT + scientific corpus + tissus mous section"
+    },
+    {
+      "name": "Types de physiothérapie : Les 8 spécialités expliquées (hub update)",
+      "slug": "types-de-physiotherapie-specialites",
+      "collection": "Ressources",
+      "collection_id": "67165e64411a14330fa9c958",
+      "item_id": "696fb0b1445cc7cf93e36aa5",
+      "publish_date": "2026-05-06",
+      "published": false,
+      "publish_time": "10:00",
+      "notes": "Drip-feed J+8 - hub wording update (5 lines + path corrections)"
     }
   ]
 }
