@@ -1681,9 +1681,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6970f5549dcaef8e98cebf79",
       "publish_date": "2026-04-28",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 2 MOFU/BOFU - NEW DIY vs Professional Pillar"
+      "notes": "Phase 2 MOFU/BOFU - NEW DIY vs Professional Pillar",
+      "published_at": "2026-04-28T22:58:03.265221"
     },
     {
       "name": "Obtenir un deuxième avis en physiothérapie",
