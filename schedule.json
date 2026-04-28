@@ -1669,9 +1669,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6970f55258c7f0ac19f0dd96",
       "publish_date": "2026-04-28",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - NEW Effectiveness Pillar"
+      "notes": "Phase 2 MOFU/BOFU - NEW Effectiveness Pillar",
+      "published_at": "2026-04-28T15:29:04.854672"
     },
     {
       "name": "Auto-traitement vs physiothérapeute : quand consulter?",
