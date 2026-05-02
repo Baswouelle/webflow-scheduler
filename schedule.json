@@ -31,7 +31,7 @@
       "item_id": "694a6f74a7030e6306ebe6d5",
       "publish_date": "2025-12-27",
       "published": true,
-      "published_at": "2025-12-27",
+      "published_at": "2026-05-02T22:44:30.255746",
       "notes": "NEW - Cluster 1 Shoulder"
     },
     {
@@ -1705,9 +1705,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694a6f74a7030e6306ebe6d5",
       "publish_date": "2026-05-02",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-05-02T22:44:30.255837"
     },
     {
       "name": "Douleur au dos : Guide complet (UPDATED)",
