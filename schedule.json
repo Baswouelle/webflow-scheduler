@@ -1693,9 +1693,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "6970f5569dcaef8e98cec3eb",
       "publish_date": "2026-05-02",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - NEW Second Opinion"
+      "notes": "Phase 2 MOFU/BOFU - NEW Second Opinion",
+      "published_at": "2026-05-02T14:11:13.656595"
     },
     {
       "name": "Douleur à l'épaule : Guide complet (UPDATED)",
