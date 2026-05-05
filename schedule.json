@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2026-04-28",
-  "notes": "Added 4 entries (drip-feed): toned-down ondes de choc, relâchement myofascial, renforcé thérapie manuelle, hub types-de-physiotherapie. Cadence J+2/J+4/J+6/J+8.",
+  "last_updated": "2026-05-05",
+  "notes": "Compressed drip-feed: 43 pending → 10/week (Mon-Fri 09:00+14:00) starting 2026-05-06, ending 2026-06-03.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -1752,7 +1752,7 @@
       "item_id": "695fda7eb5918b3becf133dc",
       "publish_date": "2026-05-08",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
     },
     {
@@ -1761,7 +1761,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69601f938c82e9126c8ad11d",
-      "publish_date": "2026-05-12",
+      "publish_date": "2026-05-11",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
@@ -1772,9 +1772,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf19b6ddcca9cca444a",
-      "publish_date": "2026-05-12",
+      "publish_date": "2026-05-11",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
     },
     {
@@ -1783,7 +1783,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf35aa1c668f713d49c",
-      "publish_date": "2026-05-15",
+      "publish_date": "2026-05-12",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
@@ -1794,9 +1794,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956aa7ec9ebf1d825edd",
-      "publish_date": "2026-05-15",
+      "publish_date": "2026-05-12",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1805,7 +1805,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c89570fd931ce9279d2d1a",
-      "publish_date": "2026-05-19",
+      "publish_date": "2026-05-13",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1816,9 +1816,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895720c56a7c62f1554e8",
-      "publish_date": "2026-05-19",
+      "publish_date": "2026-05-13",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1827,7 +1827,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956659e328a32712aac2",
-      "publish_date": "2026-05-22",
+      "publish_date": "2026-05-14",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1838,9 +1838,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895679f978cf5edfbfc39",
-      "publish_date": "2026-05-22",
+      "publish_date": "2026-05-14",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1849,7 +1849,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895701813e7014db009c8",
-      "publish_date": "2026-05-26",
+      "publish_date": "2026-05-15",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1860,9 +1860,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c89567641dfb72cba7b524",
-      "publish_date": "2026-05-26",
+      "publish_date": "2026-05-15",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1871,7 +1871,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956e6921d13a3e9627c7",
-      "publish_date": "2026-05-29",
+      "publish_date": "2026-05-18",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1882,9 +1882,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895671d70ff5c824ad0e8",
-      "publish_date": "2026-05-29",
+      "publish_date": "2026-05-18",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1893,7 +1893,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956aea37f5795679e742",
-      "publish_date": "2026-06-02",
+      "publish_date": "2026-05-19",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1904,9 +1904,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956f641dfb72cba7bd0a",
-      "publish_date": "2026-06-02",
+      "publish_date": "2026-05-19",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1915,7 +1915,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8957077b8f8041c17dd61",
-      "publish_date": "2026-06-05",
+      "publish_date": "2026-05-20",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1926,9 +1926,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895671813e7014dafff67",
-      "publish_date": "2026-06-05",
+      "publish_date": "2026-05-20",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
     },
     {
@@ -1937,7 +1937,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956b26e6c5007fe3eacd",
-      "publish_date": "2026-06-09",
+      "publish_date": "2026-05-21",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
@@ -1948,9 +1948,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968487f2431866626991",
-      "publish_date": "2026-06-11",
+      "publish_date": "2026-05-21",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -1959,9 +1959,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196857a248fe390619fbb",
-      "publish_date": "2026-06-11",
+      "publish_date": "2026-05-22",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -1970,9 +1970,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69719687a6915faaed242d05",
-      "publish_date": "2026-06-13",
+      "publish_date": "2026-05-22",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -1981,9 +1981,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196866066c7056e0e9dd8",
-      "publish_date": "2026-06-13",
+      "publish_date": "2026-05-25",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -1992,9 +1992,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968344a6edd97d6abb7d",
-      "publish_date": "2026-06-15",
+      "publish_date": "2026-05-25",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2003,9 +2003,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196846066c7056e0e9d70",
-      "publish_date": "2026-06-15",
+      "publish_date": "2026-05-26",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2014,9 +2014,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968654a77b8afc83a1d4",
-      "publish_date": "2026-06-17",
+      "publish_date": "2026-05-26",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2025,9 +2025,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196856c5d2d5e18c3a350",
-      "publish_date": "2026-06-17",
+      "publish_date": "2026-05-27",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2036,9 +2036,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196872428f998e784bd2c",
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-05-27",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2047,9 +2047,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69719688d0d9a551ffb0f031",
-      "publish_date": "2026-06-19",
+      "publish_date": "2026-05-28",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2058,9 +2058,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196866c5d2d5e18c3a367",
-      "publish_date": "2026-06-22",
+      "publish_date": "2026-05-28",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Approches Thérapeutiques Guide Complet"
     },
     {
@@ -2069,7 +2069,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237be40d8740dc06397eb",
-      "publish_date": "2026-06-24",
+      "publish_date": "2026-05-29",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase Pain Types - Cancer Cluster Hub"
@@ -2080,9 +2080,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237bfe633e637fe0732e4",
-      "publish_date": "2026-06-24",
+      "publish_date": "2026-05-29",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase Pain Types - Cancer Cluster Supporting"
     },
     {
@@ -2091,7 +2091,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c07c3201bd18ef4538",
-      "publish_date": "2026-06-26",
+      "publish_date": "2026-06-01",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase Pain Types - Psychogenic Cluster Hub"
@@ -2102,9 +2102,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c17c3201bd18ef45a1",
-      "publish_date": "2026-06-26",
+      "publish_date": "2026-06-01",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "14:00",
       "notes": "Phase Pain Types - Psychogenic Cluster Supporting"
     },
     {
@@ -2113,7 +2113,7 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c123548ead9de45f29",
-      "publish_date": "2026-06-28",
+      "publish_date": "2026-06-02",
       "published": false,
       "publish_time": "09:00",
       "notes": "Phase Pain Types - Pediatric Cluster Hub"
@@ -2136,9 +2136,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c38851e79c9e62ef26",
-      "publish_date": "2026-06-30",
+      "publish_date": "2026-06-02",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Pain Types - Nociceptive Cluster Hub"
     },
     {
@@ -2147,9 +2147,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c4e633e637fe07372a",
-      "publish_date": "2026-06-30",
+      "publish_date": "2026-06-03",
       "published": false,
-      "publish_time": "18:00",
+      "publish_time": "09:00",
       "notes": "Phase Pain Types - Nociceptive Cluster Supporting"
     },
     {
@@ -2158,9 +2158,9 @@
       "collection": "Guide Complet",
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c5f0580f2a2ee7b0e6",
-      "publish_date": "2026-07-02",
+      "publish_date": "2026-06-03",
       "published": false,
-      "publish_time": "09:00",
+      "publish_time": "14:00",
       "notes": "Phase Pain Types - Inflammatory Cluster Supporting"
     },
     {
@@ -2169,9 +2169,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b1b05b4420783ad0daa",
-      "publish_date": "2026-04-30",
+      "publish_date": "2026-05-06",
       "published": false,
-      "publish_time": "10:00",
+      "publish_time": "09:00",
       "notes": "Drip-feed J+2 - toned-down rewrite + 8 Guide Complet links"
     },
     {
@@ -2180,9 +2180,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b1809e95f8255536ee3",
-      "publish_date": "2026-05-02",
+      "publish_date": "2026-05-06",
       "published": false,
-      "publish_time": "10:00",
+      "publish_time": "14:00",
       "notes": "Drip-feed J+4 - reframe + anchor link to mobilisation tissus mous"
     },
     {
@@ -2191,9 +2191,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b146b187520d6acffbd",
-      "publish_date": "2026-05-04",
+      "publish_date": "2026-05-07",
       "published": false,
-      "publish_time": "10:00",
+      "publish_time": "09:00",
       "notes": "Drip-feed J+6 - hub pillar with FCAMPT + scientific corpus + tissus mous section"
     },
     {
@@ -2202,9 +2202,9 @@
       "collection": "Ressources",
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b1445cc7cf93e36aa5",
-      "publish_date": "2026-05-06",
+      "publish_date": "2026-05-07",
       "published": false,
-      "publish_time": "10:00",
+      "publish_time": "14:00",
       "notes": "Drip-feed J+8 - hub wording update (5 lines + path corrections)"
     }
   ]
