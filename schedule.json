@@ -63,7 +63,7 @@
       "item_id": "694015b368b5abbf78fc4916",
       "publish_date": "2026-01-01",
       "published": true,
-      "published_at": "2026-01-01",
+      "published_at": "2026-05-05T15:52:47.751042",
       "notes": "Cluster 2 Back - Power Hub"
     },
     {
@@ -1717,9 +1717,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "694015b368b5abbf78fc4916",
       "publish_date": "2026-05-05",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-05-05T15:52:47.751070"
     },
     {
       "name": "Douleur cervicale : Guide complet (UPDATED)",
