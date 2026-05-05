@@ -521,7 +521,7 @@
       "publish_date": "2026-01-31",
       "published": true,
       "publish_time": "18:00",
-      "published_at": "2026-01-31T10:00:00 (retroactive fix)"
+      "published_at": "2026-05-05T22:57:11.285850"
     },
     {
       "name": "Physiothérapie pour douleur cervicale",
@@ -1729,9 +1729,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69447ac1a159c0a373caeb9e",
       "publish_date": "2026-05-05",
-      "published": false,
+      "published": true,
       "publish_time": "18:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-05-05T22:57:11.285867"
     },
     {
       "name": "Douleur au genou : Guide complet (UPDATED)",
