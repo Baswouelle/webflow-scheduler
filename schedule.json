@@ -1137,7 +1137,7 @@
       "published": true,
       "publish_time": "18:00",
       "notes": "NEW - Phase 10 Treatment Modalities",
-      "published_at": "2026-04-09T23:37:41.934990"
+      "published_at": "2026-05-07T15:29:23.891264"
     },
     {
       "name": "Mobilisation articulaire",
@@ -2194,9 +2194,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b146b187520d6acffbd",
       "publish_date": "2026-05-07",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Drip-feed J+6 - hub pillar with FCAMPT + scientific corpus + tissus mous section"
+      "notes": "Drip-feed J+6 - hub pillar with FCAMPT + scientific corpus + tissus mous section",
+      "published_at": "2026-05-07T15:29:23.891280"
     },
     {
       "name": "Types de physiothérapie : Les 8 spécialités expliquées (hub update)",
