@@ -579,7 +579,7 @@
       "published": true,
       "notes": "NEW - Cluster Ankle/Foot",
       "publish_time": "09:00",
-      "published_at": "2026-02-03T10:00:00 (retroactive fix)"
+      "published_at": "2026-05-11T15:56:46.992467"
     },
     {
       "name": "Physiothérapie pour la douleur au pied et à la cheville",
@@ -1764,9 +1764,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69601f938c82e9126c8ad11d",
       "publish_date": "2026-05-11",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-05-11T15:56:46.992488"
     },
     {
       "name": "Douleur au coude : Guide complet (UPDATED)",
