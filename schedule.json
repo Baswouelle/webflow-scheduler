@@ -627,7 +627,7 @@
       "published": true,
       "notes": "NEW - Cluster Wrist/Hand",
       "publish_time": "09:00",
-      "published_at": "2026-02-05T10:00:00 (retroactive fix)"
+      "published_at": "2026-05-12T15:41:19.021795"
     },
     {
       "name": "Physiothérapie pour la douleur au poignet et à la main",
@@ -1787,9 +1787,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf35aa1c668f713d49c",
       "publish_date": "2026-05-12",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-05-12T15:41:19.021815"
     },
     {
       "name": "Hernie discale lombaire (UPDATED)",
