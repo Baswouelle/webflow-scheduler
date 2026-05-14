@@ -74,7 +74,8 @@
       "item_id": "67c8956659e328a32712aac2",
       "publish_date": "2025-12-23",
       "published": true,
-      "notes": "UPDATED - already existed on site"
+      "notes": "UPDATED - already existed on site",
+      "published_at": "2026-05-14T15:22:37.734706"
     },
     {
       "name": "Tendinopathie de la coiffe des rotateurs",
@@ -1833,9 +1834,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956659e328a32712aac2",
       "publish_date": "2026-05-14",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-05-14T15:22:37.734728"
     },
     {
       "name": "Tendinopathie ou tendinite à l'épaule (UPDATED)",
