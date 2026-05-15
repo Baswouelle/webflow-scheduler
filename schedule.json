@@ -1857,9 +1857,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895701813e7014db009c8",
       "publish_date": "2026-05-15",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-05-15T15:19:10.072355"
     },
     {
       "name": "Bursite à l'épaule (UPDATED)",
