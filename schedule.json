@@ -1903,9 +1903,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956aea37f5795679e742",
       "publish_date": "2026-05-19",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-05-19T16:23:56.342584"
     },
     {
       "name": "Tendinite ou tendinopathie du tendon rotulien (UPDATED)",
