@@ -1926,9 +1926,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8957077b8f8041c17dd61",
       "publish_date": "2026-05-20",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-05-20T16:28:34.426273"
     },
     {
       "name": "Syndrome d'accrochage à l'épaule (UPDATED)",
