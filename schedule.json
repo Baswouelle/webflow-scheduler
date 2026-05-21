@@ -320,7 +320,7 @@
       "published": true,
       "notes": "Cluster 2 Back - UPDATE existing",
       "publish_time": "09:00",
-      "published_at": "2026-01-23T10:00:00 (retroactive fix)"
+      "published_at": "2026-05-21T16:17:28.209732"
     },
     {
       "name": "Coccygodynie",
@@ -1949,9 +1949,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956b26e6c5007fe3eacd",
       "publish_date": "2026-05-21",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-05-21T16:17:28.209759"
     },
     {
       "name": "Enseignement sur la condition : Guide complet",
