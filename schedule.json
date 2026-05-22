@@ -1972,9 +1972,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196857a248fe390619fbb",
       "publish_date": "2026-05-22",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-05-22T15:50:19.912696"
     },
     {
       "name": "Téléréadaptation : Guide complet",
