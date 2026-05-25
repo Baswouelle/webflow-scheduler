@@ -1995,9 +1995,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196866066c7056e0e9dd8",
       "publish_date": "2026-05-25",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-05-25T15:53:09.274352"
     },
     {
       "name": "Approche McKenzie (MDT) : Guide complet",
