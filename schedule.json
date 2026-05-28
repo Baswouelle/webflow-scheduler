@@ -2064,9 +2064,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69719688d0d9a551ffb0f031",
       "publish_date": "2026-05-28",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-05-28T16:55:43.693968"
     },
     {
       "name": "FCAMPT : Guide complet sur la physiothérapie manipulative avancée",
