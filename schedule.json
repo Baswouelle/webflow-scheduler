@@ -2087,9 +2087,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237be40d8740dc06397eb",
       "publish_date": "2026-05-29",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Pain Types - Cancer Cluster Hub"
+      "notes": "Phase Pain Types - Cancer Cluster Hub",
+      "published_at": "2026-05-29T16:43:40.777418"
     },
     {
       "name": "Physiothérapie pour douleur liée au cancer : approches et bienfaits",
