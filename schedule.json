@@ -2169,9 +2169,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c4e633e637fe07372a",
       "publish_date": "2026-06-03",
-      "published": false,
+      "published": true,
       "publish_time": "09:00",
-      "notes": "Phase Pain Types - Nociceptive Cluster Supporting"
+      "notes": "Phase Pain Types - Nociceptive Cluster Supporting",
+      "published_at": "2026-06-03T18:00:36.483115"
     },
     {
       "name": "Physiothérapie pour douleur inflammatoire : approches et techniques",
@@ -2180,9 +2181,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c5f0580f2a2ee7b0e6",
       "publish_date": "2026-06-03",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Pain Types - Inflammatory Cluster Supporting"
+      "notes": "Phase Pain Types - Inflammatory Cluster Supporting",
+      "published_at": "2026-06-03T18:00:36.483124"
     },
     {
       "name": "Thérapie par ondes de choc : ce que la science en dit (rewrite toned-down)",
