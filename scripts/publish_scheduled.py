@@ -53,6 +53,27 @@ def get_todays_articles(schedule):
     return articles_to_publish, target_time
 
 
+def clear_draft_state(collection_id: str, item_id: str, api_token: str) -> dict:
+    """Ensure an item is not draft/archived before publishing.
+
+    The /items/publish endpoint returns HTTP 202 even for items left in draft
+    state in the Designer, but silently does NOT publish them (their ids land in
+    the response 'errors' array, never in 'publishedItemIds'). Clearing isDraft
+    first is what actually makes the publish take effect.
+    """
+    url = f"https://api.webflow.com/v2/collections/{collection_id}/items/{item_id}"
+    headers = {
+        "Authorization": f"Bearer {api_token}",
+        "Content-Type": "application/json",
+        "accept": "application/json"
+    }
+    payload = {"isArchived": False, "isDraft": False}
+    response = requests.patch(url, headers=headers, json=payload, timeout=30)
+    if response.status_code in (200, 202):
+        return {"success": True}
+    return {"success": False, "error": response.text, "status_code": response.status_code}
+
+
 def publish_items(collection_id: str, item_ids: list, api_token: str) -> dict:
     """Publish items to Webflow via API"""
     url = f"https://api.webflow.com/v2/collections/{collection_id}/items/publish"
@@ -157,12 +178,33 @@ def main():
         item_ids = [a["item_id"] for a in coll_articles]
         collection_name = coll_articles[0].get("collection", "Unknown")
 
-        print(f"\nPublishing {len(item_ids)} items to {collection_name}...")
+        # Clear draft/archived state first, otherwise the publish endpoint
+        # returns 202 but silently skips items still flagged as drafts.
+        print(f"\nClearing draft state for {len(item_ids)} items in {collection_name}...")
+        for iid in item_ids:
+            clear = clear_draft_state(collection_id, iid, api_token)
+            if not clear["success"]:
+                print(f"  WARNING: could not clear draft on {iid}: {clear.get('error')}")
+
+        print(f"Publishing {len(item_ids)} items to {collection_name}...")
         result = publish_items(collection_id, item_ids, api_token)
 
         if result["success"]:
-            print(f"  SUCCESS: Published {len(item_ids)} items")
-            all_published_ids.extend(item_ids)
+            data = result.get("data", {})
+            published = data.get("publishedItemIds", [])
+            api_errors = data.get("errors", [])
+            all_published_ids.extend(published)
+            not_published = [i for i in item_ids if i not in published]
+
+            print(f"  Published {len(published)}/{len(item_ids)} items")
+            if not_published:
+                # 202 with items missing from publishedItemIds = the silent failure
+                print(f"  ERROR: {len(not_published)} item(s) NOT published: {not_published}")
+                print(f"  API errors array: {api_errors}")
+                errors.append({
+                    "collection": collection_name,
+                    "error": f"Not published: {not_published}; api errors: {api_errors}"
+                })
         else:
             print(f"  ERROR: {result.get('error', 'Unknown error')}")
             errors.append({

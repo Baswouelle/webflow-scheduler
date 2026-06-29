@@ -1,7 +1,7 @@
 {
   "site_id": "670e84ccd653d18590687563",
-  "last_updated": "2026-05-05",
-  "notes": "Compressed drip-feed: 43 pending → 10/week (Mon-Fri 09:00+14:00) starting 2026-05-06, ending 2026-06-03.",
+  "last_updated": "2026-06-29",
+  "notes": "2026-06-29: Resynced flags to Webflow reality + fixed publish_scheduled.py. Root cause of skipped articles: the publish endpoint returns 202 but silently skips items left in draft (isDraft) state; the script now clears isDraft first and verifies publishedItemIds instead of trusting the 202. 5 stuck drafts published manually; 2 parked Ressources articles published; 6 archived duplicates deleted.",
   "articles": [
     {
       "name": "Douleur antérieure au genou (Power Hub)",
@@ -1754,9 +1754,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "695fda7eb5918b3becf133dc",
       "publish_date": "2026-05-08",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Douleur pied et cheville : Guide complet (UPDATED)",
@@ -1777,9 +1778,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69602cf19b6ddcca9cca444a",
       "publish_date": "2026-05-11",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Regional Hub UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Douleur poignet et main : Guide complet (UPDATED)",
@@ -1800,9 +1802,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956aa7ec9ebf1d825edd",
       "publish_date": "2026-05-12",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Fasciite plantaire et épine de Lenoir (UPDATED)",
@@ -1823,9 +1826,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895720c56a7c62f1554e8",
       "publish_date": "2026-05-13",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Capsulite (UPDATED)",
@@ -1846,9 +1850,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895679f978cf5edfbfc39",
       "publish_date": "2026-05-14",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Entorse de la cheville (UPDATED)",
@@ -1869,9 +1874,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c89567641dfb72cba7b524",
       "publish_date": "2026-05-15",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Arthrose du genou (gonarthrose) (UPDATED)",
@@ -1892,9 +1898,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895671d70ff5c824ad0e8",
       "publish_date": "2026-05-18",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Entorse lombaire (UPDATED)",
@@ -1915,9 +1922,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c8956f641dfb72cba7bd0a",
       "publish_date": "2026-05-19",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Tendinite ou tendinopathie du tendon d'Achille (UPDATED)",
@@ -1938,9 +1946,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "67c895671813e7014dafff67",
       "publish_date": "2026-05-20",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED"
+      "notes": "Phase 2 MOFU/BOFU - Top Condition UPDATED",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Arthrose lombaire (UPDATED)",
@@ -1961,9 +1970,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968487f2431866626991",
       "publish_date": "2026-05-21",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29T20:11:00 (published manually after scheduler isDraft bug)"
     },
     {
       "name": "Évaluation du poste de travail : Guide complet",
@@ -1984,9 +1994,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "69719687a6915faaed242d05",
       "publish_date": "2026-05-22",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29T20:11:00 (published manually after scheduler isDraft bug)"
     },
     {
       "name": "Posture : Guide complet",
@@ -2007,9 +2018,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968344a6edd97d6abb7d",
       "publish_date": "2026-05-25",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29T20:11:00 (published manually after scheduler isDraft bug)"
     },
     {
       "name": "Approche Mulligan : Guide complet",
@@ -2030,9 +2042,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "6971968654a77b8afc83a1d4",
       "publish_date": "2026-05-26",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29T20:11:00 (published manually after scheduler isDraft bug)"
     },
     {
       "name": "Exercices des muscles stabilisateurs : Guide complet",
@@ -2053,9 +2066,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196872428f998e784bd2c",
       "publish_date": "2026-05-27",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Traitement des nerfs : Guide complet",
@@ -2076,9 +2090,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697196866c5d2d5e18c3a367",
       "publish_date": "2026-05-28",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Approches Thérapeutiques Guide Complet"
+      "notes": "Phase Approches Thérapeutiques Guide Complet",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Douleur reliée au cancer : comprendre et soulager",
@@ -2099,9 +2114,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237bfe633e637fe0732e4",
       "publish_date": "2026-05-29",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Pain Types - Cancer Cluster Supporting"
+      "notes": "Phase Pain Types - Cancer Cluster Supporting",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Douleur psychogénique et somatique : comprendre les liens corps-esprit",
@@ -2158,9 +2174,10 @@
       "collection_id": "67c0ab311dc962020babaa51",
       "item_id": "697237c38851e79c9e62ef26",
       "publish_date": "2026-06-02",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Phase Pain Types - Nociceptive Cluster Hub"
+      "notes": "Phase Pain Types - Nociceptive Cluster Hub",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Physiothérapie pour douleur nociceptive : traitement et récupération",
@@ -2205,9 +2222,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "69b49b1809e95f8255536ee3",
       "publish_date": "2026-05-06",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Drip-feed J+4 - reframe + anchor link to mobilisation tissus mous"
+      "notes": "Drip-feed J+4 - reframe + anchor link to mobilisation tissus mous",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     },
     {
       "name": "Thérapie manuelle en physiothérapie : techniques, science actuelle et formation FCAMPT (renforcé)",
@@ -2228,9 +2246,10 @@
       "collection_id": "67165e64411a14330fa9c958",
       "item_id": "696fb0b1445cc7cf93e36aa5",
       "publish_date": "2026-05-07",
-      "published": false,
+      "published": true,
       "publish_time": "14:00",
-      "notes": "Drip-feed J+8 - hub wording update (5 lines + path corrections)"
+      "notes": "Drip-feed J+8 - hub wording update (5 lines + path corrections)",
+      "published_at": "2026-06-29 (retroactive flag sync - confirmed live in Webflow)"
     }
   ]
 }
